@@ -1,0 +1,5422 @@
+	groundTruth: 14.730000
+	our result: 14.736888 
+	error: 0.006888
+OK	time: 8.299816 seconds 
+
+	AED: 0.140113
+	top80 error: 0.046566
+	CE ( error <=0.1) : 64.177694 percent
+---------------------
+1059/1550 
+	IMG_1059.tif
+	groundTruth: -8.110000
+	our result: -8.085236 
+	error: 0.024764
+OK	time: 8.648465 seconds 
+
+	AED: 0.140004
+	top80 error: 0.046545
+	CE ( error <=0.1) : 64.211520 percent
+---------------------
+1060/1550 
+	IMG_1060.tif
+	groundTruth: 11.190000
+	our result: 11.215581 
+	error: 0.025581
+OK	time: 8.675690 seconds 
+
+	AED: 0.139896
+	top80 error: 0.046525
+	CE ( error <=0.1) : 64.245283 percent
+---------------------
+1061/1550 
+	IMG_1061.tif
+	groundTruth: 8.320000
+	our result: 8.283895 
+	error: 0.036105
+OK	time: 8.605702 seconds 
+
+	AED: 0.139799
+	top80 error: 0.046516
+	CE ( error <=0.1) : 64.278982 percent
+---------------------
+1062/1550 
+	IMG_1062.tif
+	groundTruth: -13.410000
+	our result: -13.432200 
+	error: 0.022200
+OK	time: 8.701658 seconds 
+
+	AED: 0.139688
+	top80 error: 0.046493
+	CE ( error <=0.1) : 64.312618 percent
+---------------------
+1063/1550 
+	IMG_1063.tif
+	groundTruth: -10.400000
+	our result: -10.437811 
+	error: 0.037811
+OK	time: 8.673421 seconds 
+
+	AED: 0.139592
+	top80 error: 0.046345
+	CE ( error <=0.1) : 64.346190 percent
+---------------------
+1064/1550 
+	IMG_1064.tif
+	groundTruth: -6.900000
+	our result: -6.896058 
+	error: 0.003942
+OK	time: 8.564905 seconds 
+
+	AED: 0.139465
+	top80 error: 0.046305
+	CE ( error <=0.1) : 64.379699 percent
+---------------------
+1065/1550 
+	IMG_1065.tif
+	groundTruth: -2.190000
+	our result: -2.185044 
+	error: 0.004956
+OK	time: 8.242269 seconds 
+
+	AED: 0.139338
+	top80 error: 0.046266
+	CE ( error <=0.1) : 64.413146 percent
+---------------------
+1066/1550 
+	IMG_1066.tif
+	groundTruth: -8.390000
+	our result: -8.375698 
+	error: 0.014302
+OK	time: 8.586147 seconds 
+
+	AED: 0.139221
+	top80 error: 0.046236
+	CE ( error <=0.1) : 64.446529 percent
+---------------------
+1067/1550 
+	IMG_1067.tif
+	groundTruth: 12.040000
+	our result: 12.018379 
+	error: 0.021621
+OK	time: 8.611941 seconds 
+
+	AED: 0.139111
+	top80 error: 0.046213
+	CE ( error <=0.1) : 64.479850 percent
+---------------------
+1068/1550 
+	IMG_1068.tif
+	groundTruth: 6.260000
+	our result: 6.272429 
+	error: 0.012429
+OK	time: 8.480945 seconds 
+
+	AED: 0.138992
+	top80 error: 0.046042
+	CE ( error <=0.1) : 64.513109 percent
+---------------------
+1069/1550 
+	IMG_1069.tif
+	groundTruth: 7.350000
+	our result: 7.337566 
+	error: 0.012434
+OK	time: 8.508181 seconds 
+
+	AED: 0.138874
+	top80 error: 0.046011
+	CE ( error <=0.1) : 64.546305 percent
+---------------------
+1070/1550 
+	IMG_1070.tif
+	groundTruth: 10.980000
+	our result: 10.948152 
+	error: 0.031848
+OK	time: 8.669912 seconds 
+
+	AED: 0.138774
+	top80 error: 0.045997
+	CE ( error <=0.1) : 64.579439 percent
+---------------------
+1071/1550 
+	IMG_1071.tif
+	groundTruth: 2.970000
+	our result: 2.755949 
+	error: 0.214051
+NOT OK	time: 8.205942 seconds 
+
+	AED: 0.138844
+	top80 error: 0.046093
+	CE ( error <=0.1) : 64.519141 percent
+---------------------
+1072/1550 
+	IMG_1072.tif
+	groundTruth: 8.420000
+	our result: 8.259742 
+	error: 0.160258
+NOT OK	time: 8.593177 seconds 
+
+	AED: 0.138864
+	top80 error: 0.046189
+	CE ( error <=0.1) : 64.458955 percent
+---------------------
+1073/1550 
+	IMG_1073.tif
+	groundTruth: -7.480000
+	our result: -7.658209 
+	error: 0.178209
+NOT OK	time: 8.536021 seconds 
+
+	AED: 0.138901
+	top80 error: 0.046146
+	CE ( error <=0.1) : 64.398882 percent
+---------------------
+1074/1550 
+	IMG_1074.tif
+	groundTruth: -6.210000
+	our result: -6.174170 
+	error: 0.035830
+OK	time: 8.546708 seconds 
+
+	AED: 0.138805
+	top80 error: 0.046136
+	CE ( error <=0.1) : 64.432030 percent
+---------------------
+1075/1550 
+	IMG_1075.tif
+	groundTruth: 5.620000
+	our result: 5.431508 
+	error: 0.188492
+NOT OK	time: 8.472584 seconds 
+
+	AED: 0.138851
+	top80 error: 0.046232
+	CE ( error <=0.1) : 64.372093 percent
+---------------------
+1076/1550 
+	IMG_1076.tif
+	groundTruth: 13.270000
+	our result: 13.174953 
+	error: 0.095047
+OK	time: 8.631882 seconds 
+
+	AED: 0.138810
+	top80 error: 0.046278
+	CE ( error <=0.1) : 64.405204 percent
+---------------------
+1077/1550 
+	IMG_1077.tif
+	groundTruth: 11.100000
+	our result: 10.918562 
+	error: 0.181438
+NOT OK	time: 8.674896 seconds 
+
+	AED: 0.138850
+	top80 error: 0.046374
+	CE ( error <=0.1) : 64.345404 percent
+---------------------
+1078/1550 
+	IMG_1078.tif
+	groundTruth: 9.700000
+	our result: 9.544594 
+	error: 0.155406
+NOT OK	time: 8.690147 seconds 
+
+	AED: 0.138865
+	top80 error: 0.046331
+	CE ( error <=0.1) : 64.285714 percent
+---------------------
+1079/1550 
+	IMG_1079.tif
+	groundTruth: -13.980000
+	our result: -14.120427 
+	error: 0.140427
+NOT OK	time: 8.355594 seconds 
+
+	AED: 0.138867
+	top80 error: 0.046418
+	CE ( error <=0.1) : 64.226135 percent
+---------------------
+1080/1550 
+	IMG_1080.tif
+	groundTruth: -8.860000
+	our result: -9.028388 
+	error: 0.168388
+NOT OK	time: 8.662136 seconds 
+
+	AED: 0.138894
+	top80 error: 0.046514
+	CE ( error <=0.1) : 64.166667 percent
+---------------------
+1081/1550 
+	IMG_1081.tif
+	groundTruth: -11.200000
+	our result: -11.210408 
+	error: 0.010408
+OK	time: 8.540384 seconds 
+
+	AED: 0.138775
+	top80 error: 0.046481
+	CE ( error <=0.1) : 64.199815 percent
+---------------------
+1082/1550 
+	IMG_1082.tif
+	groundTruth: 7.590000
+	our result: 7.857824 
+	error: 0.267824
+NOT OK	time: 8.348984 seconds 
+
+	AED: 0.138894
+	top80 error: 0.046577
+	CE ( error <=0.1) : 64.140481 percent
+---------------------
+1083/1550 
+	IMG_1083.tif
+	groundTruth: -6.580000
+	our result: -6.315990 
+	error: 0.264010
+NOT OK	time: 8.357678 seconds 
+
+	AED: 0.139010
+	top80 error: 0.046534
+	CE ( error <=0.1) : 64.081256 percent
+---------------------
+1084/1550 
+	IMG_1084.tif
+	groundTruth: 14.900000
+	our result: 14.913603 
+	error: 0.013603
+OK	time: 8.149538 seconds 
+
+	AED: 0.138894
+	top80 error: 0.046503
+	CE ( error <=0.1) : 64.114391 percent
+---------------------
+1085/1550 
+	IMG_1085.tif
+	groundTruth: -12.590000
+	our result: -12.535969 
+	error: 0.054031
+OK	time: 8.469119 seconds 
+
+	AED: 0.138816
+	top80 error: 0.046510
+	CE ( error <=0.1) : 64.147465 percent
+---------------------
+1086/1550 
+	IMG_1086.tif
+	groundTruth: 13.060000
+	our result: 13.031484 
+	error: 0.028516
+OK	time: 8.462536 seconds 
+
+	AED: 0.138714
+	top80 error: 0.046494
+	CE ( error <=0.1) : 64.180479 percent
+---------------------
+1087/1550 
+	IMG_1087.tif
+	groundTruth: -1.730000
+	our result: -1.694784 
+	error: 0.035216
+OK	time: 8.145298 seconds 
+
+	AED: 0.138619
+	top80 error: 0.046483
+	CE ( error <=0.1) : 64.213431 percent
+---------------------
+1088/1550 
+	IMG_1088.tif
+	groundTruth: 0.050000
+	our result: -0.037705 
+	error: 0.087705
+OK	time: 7.967258 seconds 
+
+	AED: 0.138572
+	top80 error: 0.046383
+	CE ( error <=0.1) : 64.246324 percent
+---------------------
+1089/1550 
+	IMG_1089.tif
+	groundTruth: -8.590000
+	our result: -8.350324 
+	error: 0.239676
+NOT OK	time: 8.345872 seconds 
+
+	AED: 0.138665
+	top80 error: 0.046478
+	CE ( error <=0.1) : 64.187328 percent
+---------------------
+1090/1550 
+	IMG_1090.tif
+	groundTruth: 2.010000
+	our result: 2.082467 
+	error: 0.072467
+OK	time: 8.038106 seconds 
+
+	AED: 0.138604
+	top80 error: 0.046502
+	CE ( error <=0.1) : 64.220183 percent
+---------------------
+1091/1550 
+	IMG_1091.tif
+	groundTruth: -12.290000
+	our result: -12.213942 
+	error: 0.076058
+OK	time: 8.045765 seconds 
+
+	AED: 0.138547
+	top80 error: 0.046529
+	CE ( error <=0.1) : 64.252979 percent
+---------------------
+1092/1550 
+	IMG_1092.tif
+	groundTruth: 1.750000
+	our result: 1.882669 
+	error: 0.132669
+NOT OK	time: 7.464052 seconds 
+
+	AED: 0.138542
+	top80 error: 0.046608
+	CE ( error <=0.1) : 64.194139 percent
+---------------------
+1093/1550 
+	IMG_1093.tif
+	groundTruth: 8.290000
+	our result: 8.401135 
+	error: 0.111135
+NOT OK	time: 7.913112 seconds 
+
+	AED: 0.138517
+	top80 error: 0.046530
+	CE ( error <=0.1) : 64.135407 percent
+---------------------
+1094/1550 
+	IMG_1094.tif
+	groundTruth: -13.940000
+	our result: -13.903562 
+	error: 0.036438
+OK	time: 8.122631 seconds 
+
+	AED: 0.138423
+	top80 error: 0.046520
+	CE ( error <=0.1) : 64.168190 percent
+---------------------
+1095/1550 
+	IMG_1095.tif
+	groundTruth: 13.730000
+	our result: 13.753800 
+	error: 0.023800
+OK	time: 8.163779 seconds 
+
+	AED: 0.138319
+	top80 error: 0.046500
+	CE ( error <=0.1) : 64.200913 percent
+---------------------
+1096/1550 
+	IMG_1096.tif
+	groundTruth: 5.700000
+	our result: 5.865502 
+	error: 0.165502
+NOT OK	time: 7.823438 seconds 
+
+	AED: 0.138343
+	top80 error: 0.046594
+	CE ( error <=0.1) : 64.142336 percent
+---------------------
+1097/1550 
+	IMG_1097.tif
+	groundTruth: -10.680000
+	our result: -10.527600 
+	error: 0.152400
+NOT OK	time: 8.083421 seconds 
+
+	AED: 0.138356
+	top80 error: 0.046689
+	CE ( error <=0.1) : 64.083865 percent
+---------------------
+1098/1550 
+	IMG_1098.tif
+	groundTruth: -5.320000
+	our result: -5.161574 
+	error: 0.158426
+NOT OK	time: 7.889338 seconds 
+
+	AED: 0.138375
+	top80 error: 0.046647
+	CE ( error <=0.1) : 64.025501 percent
+---------------------
+1099/1550 
+	IMG_1099.tif
+	groundTruth: 0.270000
+	our result: 0.292794 
+	error: 0.022794
+OK	time: 7.481221 seconds 
+
+	AED: 0.138269
+	top80 error: 0.046625
+	CE ( error <=0.1) : 64.058235 percent
+---------------------
+1100/1550 
+	IMG_1100.tif
+	groundTruth: 4.060000
+	our result: 4.179342 
+	error: 0.119342
+NOT OK	time: 7.772528 seconds 
+
+	AED: 0.138252
+	top80 error: 0.046691
+	CE ( error <=0.1) : 64.000000 percent
+---------------------
+1101/1550 
+	IMG_1101.tif
+	groundTruth: 12.910000
+	our result: 12.899582 
+	error: 0.010418
+OK	time: 8.103713 seconds 
+
+	AED: 0.138136
+	top80 error: 0.046658
+	CE ( error <=0.1) : 64.032698 percent
+---------------------
+1102/1550 
+	IMG_1102.tif
+	groundTruth: -10.140000
+	our result: -9.988952 
+	error: 0.151048
+NOT OK	time: 8.014801 seconds 
+
+	AED: 0.138148
+	top80 error: 0.046753
+	CE ( error <=0.1) : 63.974592 percent
+---------------------
+1103/1550 
+	IMG_1103.tif
+	groundTruth: -11.100000
+	our result: -11.005519 
+	error: 0.094481
+OK	time: 8.037188 seconds 
+
+	AED: 0.138108
+	top80 error: 0.046659
+	CE ( error <=0.1) : 64.007253 percent
+---------------------
+1104/1550 
+	IMG_1104.tif
+	groundTruth: -8.770000
+	our result: -8.702634 
+	error: 0.067366
+OK	time: 7.786763 seconds 
+
+	AED: 0.138044
+	top80 error: 0.046678
+	CE ( error <=0.1) : 64.039855 percent
+---------------------
+1105/1550 
+	IMG_1105.tif
+	groundTruth: 1.110000
+	our result: 1.194096 
+	error: 0.084096
+OK	time: 7.192709 seconds 
+
+	AED: 0.137995
+	top80 error: 0.046712
+	CE ( error <=0.1) : 64.072398 percent
+---------------------
+1106/1550 
+	IMG_1106.tif
+	groundTruth: 10.220000
+	our result: 10.303832 
+	error: 0.083832
+OK	time: 7.963044 seconds 
+
+	AED: 0.137946
+	top80 error: 0.046745
+	CE ( error <=0.1) : 64.104882 percent
+---------------------
+1107/1550 
+	IMG_1107.tif
+	groundTruth: 3.200000
+	our result: 3.246454 
+	error: 0.046454
+OK	time: 7.403980 seconds 
+
+	AED: 0.137864
+	top80 error: 0.046745
+	CE ( error <=0.1) : 64.137308 percent
+---------------------
+1108/1550 
+	IMG_1108.tif
+	groundTruth: -0.810000
+	our result: -0.664247 
+	error: 0.145753
+NOT OK	time: 7.134282 seconds 
+
+	AED: 0.137871
+	top80 error: 0.046699
+	CE ( error <=0.1) : 64.079422 percent
+---------------------
+1109/1550 
+	IMG_1109.tif
+	groundTruth: 5.730000
+	our result: 5.781578 
+	error: 0.051578
+OK	time: 7.513913 seconds 
+
+	AED: 0.137793
+	top80 error: 0.046703
+	CE ( error <=0.1) : 64.111812 percent
+---------------------
+1110/1550 
+	IMG_1110.tif
+	groundTruth: 8.010000
+	our result: 7.968689 
+	error: 0.041311
+OK	time: 7.635973 seconds 
+
+	AED: 0.137706
+	top80 error: 0.046698
+	CE ( error <=0.1) : 64.144144 percent
+---------------------
+1111/1550 
+	IMG_1111.tif
+	groundTruth: 1.850000
+	our result: 1.847906 
+	error: 0.002094
+OK	time: 6.947266 seconds 
+
+	AED: 0.137584
+	top80 error: 0.046658
+	CE ( error <=0.1) : 64.176418 percent
+---------------------
+1112/1550 
+	IMG_1112.tif
+	groundTruth: -2.620000
+	our result: -2.519331 
+	error: 0.100669
+NOT OK	time: 7.043346 seconds 
+
+	AED: 0.137551
+	top80 error: 0.046707
+	CE ( error <=0.1) : 64.118705 percent
+---------------------
+1113/1550 
+	IMG_1113.tif
+	groundTruth: -12.590000
+	our result: -12.527600 
+	error: 0.062400
+OK	time: 7.943918 seconds 
+
+	AED: 0.137483
+	top80 error: 0.046586
+	CE ( error <=0.1) : 64.150943 percent
+---------------------
+1114/1550 
+	IMG_1114.tif
+	groundTruth: 5.410000
+	our result: 5.540378 
+	error: 0.130378
+NOT OK	time: 7.336347 seconds 
+
+	AED: 0.137477
+	top80 error: 0.046661
+	CE ( error <=0.1) : 64.093357 percent
+---------------------
+1115/1550 
+	IMG_1115.tif
+	groundTruth: -10.770000
+	our result: -10.661314 
+	error: 0.108686
+NOT OK	time: 7.651464 seconds 
+
+	AED: 0.137451
+	top80 error: 0.046716
+	CE ( error <=0.1) : 64.035874 percent
+---------------------
+1116/1550 
+	IMG_1116.tif
+	groundTruth: -14.920000
+	our result: -14.933489 
+	error: 0.013489
+OK	time: 7.513829 seconds 
+
+	AED: 0.137340
+	top80 error: 0.046687
+	CE ( error <=0.1) : 64.068100 percent
+---------------------
+1117/1550 
+	IMG_1117.tif
+	groundTruth: -6.840000
+	our result: -6.708336 
+	error: 0.131664
+NOT OK	time: 7.370723 seconds 
+
+	AED: 0.137335
+	top80 error: 0.046763
+	CE ( error <=0.1) : 64.010743 percent
+---------------------
+1118/1550 
+	IMG_1118.tif
+	groundTruth: -4.650000
+	our result: -4.534686 
+	error: 0.115314
+NOT OK	time: 7.199607 seconds 
+
+	AED: 0.137315
+	top80 error: 0.046690
+	CE ( error <=0.1) : 63.953488 percent
+---------------------
+1119/1550 
+	IMG_1119.tif
+	groundTruth: 9.380000
+	our result: 9.370679 
+	error: 0.009321
+OK	time: 7.586581 seconds 
+
+	AED: 0.137201
+	top80 error: 0.046657
+	CE ( error <=0.1) : 63.985702 percent
+---------------------
+1120/1550 
+	IMG_1120.tif
+	groundTruth: 12.700000
+	our result: 12.659339 
+	error: 0.040661
+OK	time: 7.871328 seconds 
+
+	AED: 0.137115
+	top80 error: 0.046651
+	CE ( error <=0.1) : 64.017857 percent
+---------------------
+1121/1550 
+	IMG_1121.tif
+	groundTruth: -13.350000
+	our result: -13.229388 
+	error: 0.120612
+NOT OK	time: 8.030178 seconds 
+
+	AED: 0.137100
+	top80 error: 0.046717
+	CE ( error <=0.1) : 63.960749 percent
+---------------------
+1122/1550 
+	IMG_1122.tif
+	groundTruth: -7.480000
+	our result: -7.403303 
+	error: 0.076697
+OK	time: 7.627584 seconds 
+
+	AED: 0.137046
+	top80 error: 0.046744
+	CE ( error <=0.1) : 63.992870 percent
+---------------------
+1123/1550 
+	IMG_1123.tif
+	groundTruth: -12.540000
+	our result: -12.435469 
+	error: 0.104531
+NOT OK	time: 7.967669 seconds 
+
+	AED: 0.137017
+	top80 error: 0.046662
+	CE ( error <=0.1) : 63.935886 percent
+---------------------
+1124/1550 
+	IMG_1124.tif
+	groundTruth: -4.330000
+	our result: -4.182539 
+	error: 0.147461
+NOT OK	time: 7.323750 seconds 
+
+	AED: 0.137026
+	top80 error: 0.046752
+	CE ( error <=0.1) : 63.879004 percent
+---------------------
+1125/1550 
+	IMG_1125.tif
+	groundTruth: 11.910000
+	our result: 11.925374 
+	error: 0.015374
+OK	time: 7.886289 seconds 
+
+	AED: 0.136918
+	top80 error: 0.046724
+	CE ( error <=0.1) : 63.911111 percent
+---------------------
+1126/1550 
+	IMG_1126.tif
+	groundTruth: -0.140000
+	our result: -0.054526 
+	error: 0.085474
+OK	time: 6.932361 seconds 
+
+	AED: 0.136873
+	top80 error: 0.046758
+	CE ( error <=0.1) : 63.943162 percent
+---------------------
+1127/1550 
+	IMG_1127.tif
+	groundTruth: 10.120000
+	our result: 10.192193 
+	error: 0.072193
+OK	time: 7.735177 seconds 
+
+	AED: 0.136815
+	top80 error: 0.046781
+	CE ( error <=0.1) : 63.975155 percent
+---------------------
+1128/1550 
+	IMG_1128.tif
+	groundTruth: 2.400000
+	our result: 2.542791 
+	error: 0.142791
+NOT OK	time: 7.148665 seconds 
+
+	AED: 0.136821
+	top80 error: 0.046733
+	CE ( error <=0.1) : 63.918440 percent
+---------------------
+1129/1550 
+	IMG_1129.tif
+	groundTruth: 1.240000
+	our result: 1.322210 
+	error: 0.082210
+OK	time: 7.016226 seconds 
+
+	AED: 0.136772
+	top80 error: 0.046765
+	CE ( error <=0.1) : 63.950399 percent
+---------------------
+1130/1550 
+	IMG_1130.tif
+	groundTruth: 13.940000
+	our result: 14.030537 
+	error: 0.090537
+OK	time: 7.463225 seconds 
+
+	AED: 0.136731
+	top80 error: 0.046804
+	CE ( error <=0.1) : 63.982301 percent
+---------------------
+1131/1550 
+	IMG_1131.tif
+	groundTruth: -10.130000
+	our result: -10.162276 
+	error: 0.032276
+OK	time: 8.130915 seconds 
+
+	AED: 0.136639
+	top80 error: 0.046791
+	CE ( error <=0.1) : 64.014147 percent
+---------------------
+1132/1550 
+	IMG_1132.tif
+	groundTruth: 7.930000
+	our result: 7.869655 
+	error: 0.060345
+OK	time: 8.047455 seconds 
+
+	AED: 0.136571
+	top80 error: 0.046803
+	CE ( error <=0.1) : 64.045936 percent
+---------------------
+1133/1550 
+	IMG_1133.tif
+	groundTruth: 13.680000
+	our result: 13.593592 
+	error: 0.086408
+OK	time: 8.240384 seconds 
+
+	AED: 0.136527
+	top80 error: 0.046706
+	CE ( error <=0.1) : 64.077670 percent
+---------------------
+1134/1550 
+	IMG_1134.tif
+	groundTruth: 7.030000
+	our result: 6.940902 
+	error: 0.089098
+OK	time: 8.000455 seconds 
+
+	AED: 0.136485
+	top80 error: 0.046744
+	CE ( error <=0.1) : 64.109347 percent
+---------------------
+1135/1550 
+	IMG_1135.tif
+	groundTruth: -7.640000
+	our result: -7.717389 
+	error: 0.077389
+OK	time: 8.026542 seconds 
+
+	AED: 0.136433
+	top80 error: 0.046771
+	CE ( error <=0.1) : 64.140969 percent
+---------------------
+1136/1550 
+	IMG_1136.tif
+	groundTruth: -6.150000
+	our result: -6.169953 
+	error: 0.019953
+OK	time: 7.969876 seconds 
+
+	AED: 0.136331
+	top80 error: 0.046747
+	CE ( error <=0.1) : 64.172535 percent
+---------------------
+1137/1550 
+	IMG_1137.tif
+	groundTruth: 14.970000
+	our result: 14.854209 
+	error: 0.115791
+NOT OK	time: 7.833852 seconds 
+
+	AED: 0.136313
+	top80 error: 0.046808
+	CE ( error <=0.1) : 64.116095 percent
+---------------------
+1138/1550 
+	IMG_1138.tif
+	groundTruth: -13.750000
+	our result: -13.795385 
+	error: 0.045385
+OK	time: 8.243604 seconds 
+
+	AED: 0.136233
+	top80 error: 0.046676
+	CE ( error <=0.1) : 64.147627 percent
+---------------------
+1139/1550 
+	IMG_1139.tif
+	groundTruth: 5.760000
+	our result: 5.689347 
+	error: 0.070653
+OK	time: 7.955376 seconds 
+
+	AED: 0.136175
+	top80 error: 0.046697
+	CE ( error <=0.1) : 64.179104 percent
+---------------------
+1140/1550 
+	IMG_1140.tif
+	groundTruth: 10.210000
+	our result: 10.123787 
+	error: 0.086213
+OK	time: 8.131894 seconds 
+
+	AED: 0.136131
+	top80 error: 0.046732
+	CE ( error <=0.1) : 64.210526 percent
+---------------------
+1141/1550 
+	IMG_1141.tif
+	groundTruth: -10.910000
+	our result: -11.024335 
+	error: 0.114335
+NOT OK	time: 8.107898 seconds 
+
+	AED: 0.136112
+	top80 error: 0.046791
+	CE ( error <=0.1) : 64.154251 percent
+---------------------
+1142/1550 
+	IMG_1142.tif
+	groundTruth: 8.200000
+	our result: 8.048214 
+	error: 0.151786
+NOT OK	time: 8.004157 seconds 
+
+	AED: 0.136126
+	top80 error: 0.046880
+	CE ( error <=0.1) : 64.098074 percent
+---------------------
+1143/1550 
+	IMG_1143.tif
+	groundTruth: 11.500000
+	our result: 11.330479 
+	error: 0.169521
+NOT OK	time: 8.135544 seconds 
+
+	AED: 0.136155
+	top80 error: 0.046839
+	CE ( error <=0.1) : 64.041995 percent
+---------------------
+1144/1550 
+	IMG_1144.tif
+	groundTruth: -3.790000
+	our result: -3.892077 
+	error: 0.102077
+NOT OK	time: 7.810705 seconds 
+
+	AED: 0.136125
+	top80 error: 0.046887
+	CE ( error <=0.1) : 63.986014 percent
+---------------------
+1145/1550 
+	IMG_1145.tif
+	groundTruth: 4.630000
+	our result: 4.516826 
+	error: 0.113174
+NOT OK	time: 7.847380 seconds 
+
+	AED: 0.136105
+	top80 error: 0.046945
+	CE ( error <=0.1) : 63.930131 percent
+---------------------
+1146/1550 
+	IMG_1146.tif
+	groundTruth: -5.520000
+	our result: -5.653300 
+	error: 0.133300
+NOT OK	time: 7.879516 seconds 
+
+	AED: 0.136103
+	top80 error: 0.047020
+	CE ( error <=0.1) : 63.874346 percent
+---------------------
+1147/1550 
+	IMG_1147.tif
+	groundTruth: -2.700000
+	our result: -2.820138 
+	error: 0.120138
+NOT OK	time: 7.799443 seconds 
+
+	AED: 0.136089
+	top80 error: 0.047084
+	CE ( error <=0.1) : 63.818657 percent
+---------------------
+1148/1550 
+	IMG_1148.tif
+	groundTruth: 3.360000
+	our result: 3.254661 
+	error: 0.105339
+NOT OK	time: 7.791778 seconds 
+
+	AED: 0.136062
+	top80 error: 0.047006
+	CE ( error <=0.1) : 63.763066 percent
+---------------------
+1149/1550 
+	IMG_1149.tif
+	groundTruth: 2.150000
+	our result: 2.035792 
+	error: 0.114208
+NOT OK	time: 7.760347 seconds 
+
+	AED: 0.136043
+	top80 error: 0.047064
+	CE ( error <=0.1) : 63.707572 percent
+---------------------
+1150/1550 
+	IMG_1150.tif
+	groundTruth: 9.790000
+	our result: 9.654848 
+	error: 0.135152
+NOT OK	time: 8.064370 seconds 
+
+	AED: 0.136042
+	top80 error: 0.047141
+	CE ( error <=0.1) : 63.652174 percent
+---------------------
+1151/1550 
+	IMG_1151.tif
+	groundTruth: -6.160000
+	our result: -6.094197 
+	error: 0.065803
+OK	time: 7.355944 seconds 
+
+	AED: 0.135981
+	top80 error: 0.047157
+	CE ( error <=0.1) : 63.683753 percent
+---------------------
+1152/1550 
+	IMG_1152.tif
+	groundTruth: 5.030000
+	our result: 5.130436 
+	error: 0.100436
+NOT OK	time: 7.269068 seconds 
+
+	AED: 0.135951
+	top80 error: 0.047203
+	CE ( error <=0.1) : 63.628472 percent
+---------------------
+1153/1550 
+	IMG_1153.tif
+	groundTruth: 12.520000
+	our result: 12.598774 
+	error: 0.078774
+OK	time: 7.833985 seconds 
+
+	AED: 0.135901
+	top80 error: 0.047103
+	CE ( error <=0.1) : 63.660017 percent
+---------------------
+1154/1550 
+	IMG_1154.tif
+	groundTruth: -5.000000
+	our result: -4.885876 
+	error: 0.114124
+NOT OK	time: 7.328821 seconds 
+
+	AED: 0.135882
+	top80 error: 0.047161
+	CE ( error <=0.1) : 63.604853 percent
+---------------------
+1155/1550 
+	IMG_1155.tif
+	groundTruth: 14.060000
+	our result: 14.153509 
+	error: 0.093509
+OK	time: 7.471387 seconds 
+
+	AED: 0.135845
+	top80 error: 0.047201
+	CE ( error <=0.1) : 63.636364 percent
+---------------------
+1156/1550 
+	IMG_1156.tif
+	groundTruth: 9.550000
+	our result: 9.610168 
+	error: 0.060168
+OK	time: 7.616143 seconds 
+
+	AED: 0.135780
+	top80 error: 0.047212
+	CE ( error <=0.1) : 63.667820 percent
+---------------------
+1157/1550 
+	IMG_1157.tif
+	groundTruth: -13.290000
+	our result: -13.180982 
+	error: 0.109018
+NOT OK	time: 7.874748 seconds 
+
+	AED: 0.135757
+	top80 error: 0.047265
+	CE ( error <=0.1) : 63.612792 percent
+---------------------
+1158/1550 
+	IMG_1158.tif
+	groundTruth: -1.580000
+	our result: -1.476616 
+	error: 0.103384
+NOT OK	time: 6.989285 seconds 
+
+	AED: 0.135729
+	top80 error: 0.047187
+	CE ( error <=0.1) : 63.557858 percent
+---------------------
+1159/1550 
+	IMG_1159.tif
+	groundTruth: -7.800000
+	our result: -7.734128 
+	error: 0.065872
+OK	time: 7.497162 seconds 
+
+	AED: 0.135669
+	top80 error: 0.047203
+	CE ( error <=0.1) : 63.589301 percent
+---------------------
+1160/1550 
+	IMG_1160.tif
+	groundTruth: 2.150000
+	our result: 2.253185 
+	error: 0.103185
+NOT OK	time: 7.035411 seconds 
+
+	AED: 0.135641
+	top80 error: 0.047251
+	CE ( error <=0.1) : 63.534483 percent
+---------------------
+1161/1550 
+	IMG_1161.tif
+	groundTruth: 4.270000
+	our result: 4.442719 
+	error: 0.172719
+NOT OK	time: 8.053008 seconds 
+
+	AED: 0.135673
+	top80 error: 0.047337
+	CE ( error <=0.1) : 63.479759 percent
+---------------------
+1162/1550 
+	IMG_1162.tif
+	groundTruth: 2.550000
+	our result: 2.690476 
+	error: 0.140476
+NOT OK	time: 7.976260 seconds 
+
+	AED: 0.135677
+	top80 error: 0.047417
+	CE ( error <=0.1) : 63.425129 percent
+---------------------
+1163/1550 
+	IMG_1163.tif
+	groundTruth: 3.430000
+	our result: 3.557709 
+	error: 0.127709
+NOT OK	time: 8.006617 seconds 
+
+	AED: 0.135670
+	top80 error: 0.047360
+	CE ( error <=0.1) : 63.370593 percent
+---------------------
+1164/1550 
+	IMG_1164.tif
+	groundTruth: 9.770000
+	our result: 9.946430 
+	error: 0.176430
+NOT OK	time: 8.254111 seconds 
+
+	AED: 0.135705
+	top80 error: 0.047446
+	CE ( error <=0.1) : 63.316151 percent
+---------------------
+1165/1550 
+	IMG_1165.tif
+	groundTruth: -0.650000
+	our result: -0.496890 
+	error: 0.153110
+NOT OK	time: 7.889287 seconds 
+
+	AED: 0.135720
+	top80 error: 0.047532
+	CE ( error <=0.1) : 63.261803 percent
+---------------------
+1166/1550 
+	IMG_1166.tif
+	groundTruth: -7.860000
+	our result: -7.721441 
+	error: 0.138559
+NOT OK	time: 8.166420 seconds 
+
+	AED: 0.135722
+	top80 error: 0.047610
+	CE ( error <=0.1) : 63.207547 percent
+---------------------
+1167/1550 
+	IMG_1167.tif
+	groundTruth: 0.960000
+	our result: 1.100154 
+	error: 0.140154
+NOT OK	time: 7.893163 seconds 
+
+	AED: 0.135726
+	top80 error: 0.047689
+	CE ( error <=0.1) : 63.153385 percent
+---------------------
+1168/1550 
+	IMG_1168.tif
+	groundTruth: -5.350000
+	our result: -5.188496 
+	error: 0.161504
+NOT OK	time: 8.057444 seconds 
+
+	AED: 0.135748
+	top80 error: 0.047648
+	CE ( error <=0.1) : 63.099315 percent
+---------------------
+1169/1550 
+	IMG_1169.tif
+	groundTruth: 6.050000
+	our result: 6.227749 
+	error: 0.177749
+NOT OK	time: 8.116407 seconds 
+
+	AED: 0.135784
+	top80 error: 0.047734
+	CE ( error <=0.1) : 63.045338 percent
+---------------------
+1170/1550 
+	IMG_1170.tif
+	groundTruth: -9.480000
+	our result: -9.326955 
+	error: 0.153045
+NOT OK	time: 8.235052 seconds 
+
+	AED: 0.135799
+	top80 error: 0.047821
+	CE ( error <=0.1) : 62.991453 percent
+---------------------
+1171/1550 
+	IMG_1171.tif
+	groundTruth: 12.840000
+	our result: 12.921230 
+	error: 0.081230
+OK	time: 8.323211 seconds 
+
+	AED: 0.135752
+	top80 error: 0.047849
+	CE ( error <=0.1) : 63.023057 percent
+---------------------
+1172/1550 
+	IMG_1172.tif
+	groundTruth: -4.540000
+	our result: -4.454449 
+	error: 0.085551
+OK	time: 8.011345 seconds 
+
+	AED: 0.135709
+	top80 error: 0.047882
+	CE ( error <=0.1) : 63.054608 percent
+---------------------
+1173/1550 
+	IMG_1173.tif
+	groundTruth: 1.740000
+	our result: 1.843690 
+	error: 0.103690
+NOT OK	time: 7.885164 seconds 
+
+	AED: 0.135682
+	top80 error: 0.047802
+	CE ( error <=0.1) : 63.000853 percent
+---------------------
+1174/1550 
+	IMG_1174.tif
+	groundTruth: 14.000000
+	our result: 14.091529 
+	error: 0.091529
+OK	time: 7.922581 seconds 
+
+	AED: 0.135644
+	top80 error: 0.047839
+	CE ( error <=0.1) : 63.032368 percent
+---------------------
+1175/1550 
+	IMG_1175.tif
+	groundTruth: 6.550000
+	our result: 6.633373 
+	error: 0.083373
+OK	time: 8.116847 seconds 
+
+	AED: 0.135600
+	top80 error: 0.047870
+	CE ( error <=0.1) : 63.063830 percent
+---------------------
+1176/1550 
+	IMG_1176.tif
+	groundTruth: 11.070000
+	our result: 11.145099 
+	error: 0.075099
+OK	time: 8.259110 seconds 
+
+	AED: 0.135548
+	top80 error: 0.047893
+	CE ( error <=0.1) : 63.095238 percent
+---------------------
+1177/1550 
+	IMG_1177.tif
+	groundTruth: 7.770000
+	our result: 7.877924 
+	error: 0.107924
+NOT OK	time: 8.137565 seconds 
+
+	AED: 0.135525
+	top80 error: 0.047944
+	CE ( error <=0.1) : 63.041631 percent
+---------------------
+1178/1550 
+	IMG_1178.tif
+	groundTruth: -0.680000
+	our result: -0.533301 
+	error: 0.146699
+NOT OK	time: 7.826386 seconds 
+
+	AED: 0.135535
+	top80 error: 0.047902
+	CE ( error <=0.1) : 62.988115 percent
+---------------------
+1179/1550 
+	IMG_1179.tif
+	groundTruth: -12.990000
+	our result: -12.880602 
+	error: 0.109398
+NOT OK	time: 8.317878 seconds 
+
+	AED: 0.135512
+	top80 error: 0.047954
+	CE ( error <=0.1) : 62.934690 percent
+---------------------
+1180/1550 
+	IMG_1180.tif
+	groundTruth: -6.360000
+	our result: -6.276482 
+	error: 0.083518
+OK	time: 8.096367 seconds 
+
+	AED: 0.135468
+	top80 error: 0.047984
+	CE ( error <=0.1) : 62.966102 percent
+---------------------
+1181/1550 
+	IMG_1181.tif
+	groundTruth: -6.840000
+	our result: -6.790549 
+	error: 0.049451
+OK	time: 8.099296 seconds 
+
+	AED: 0.135395
+	top80 error: 0.047985
+	CE ( error <=0.1) : 62.997460 percent
+---------------------
+1182/1550 
+	IMG_1182.tif
+	groundTruth: -12.700000
+	our result: -12.664939 
+	error: 0.035061
+OK	time: 8.315707 seconds 
+
+	AED: 0.135311
+	top80 error: 0.047974
+	CE ( error <=0.1) : 63.028765 percent
+---------------------
+1183/1550 
+	IMG_1183.tif
+	groundTruth: 5.320000
+	our result: 5.344551 
+	error: 0.024551
+OK	time: 8.044052 seconds 
+
+	AED: 0.135217
+	top80 error: 0.047830
+	CE ( error <=0.1) : 63.060017 percent
+---------------------
+1184/1550 
+	IMG_1184.tif
+	groundTruth: -2.910000
+	our result: -2.878198 
+	error: 0.031802
+OK	time: 7.912568 seconds 
+
+	AED: 0.135130
+	top80 error: 0.047816
+	CE ( error <=0.1) : 63.091216 percent
+---------------------
+1185/1550 
+	IMG_1185.tif
+	groundTruth: 8.150000
+	our result: 8.196774 
+	error: 0.046774
+OK	time: 8.144187 seconds 
+
+	AED: 0.135055
+	top80 error: 0.047815
+	CE ( error <=0.1) : 63.122363 percent
+---------------------
+1186/1550 
+	IMG_1186.tif
+	groundTruth: 12.020000
+	our result: 12.028032 
+	error: 0.008032
+OK	time: 8.291184 seconds 
+
+	AED: 0.134948
+	top80 error: 0.047782
+	CE ( error <=0.1) : 63.153457 percent
+---------------------
+1187/1550 
+	IMG_1187.tif
+	groundTruth: -11.680000
+	our result: -11.630268 
+	error: 0.049732
+OK	time: 8.261483 seconds 
+
+	AED: 0.134876
+	top80 error: 0.047783
+	CE ( error <=0.1) : 63.184499 percent
+---------------------
+1188/1550 
+	IMG_1188.tif
+	groundTruth: -10.790000
+	our result: -10.783034 
+	error: 0.006966
+OK	time: 8.241975 seconds 
+
+	AED: 0.134768
+	top80 error: 0.047625
+	CE ( error <=0.1) : 63.215488 percent
+---------------------
+1189/1550 
+	IMG_1189.tif
+	groundTruth: 1.740000
+	our result: 1.766814 
+	error: 0.026814
+OK	time: 7.855379 seconds 
+
+	AED: 0.134678
+	top80 error: 0.047607
+	CE ( error <=0.1) : 63.246426 percent
+---------------------
+1190/1550 
+	IMG_1190.tif
+	groundTruth: 10.760000
+	our result: 10.783462 
+	error: 0.023462
+OK	time: 8.240666 seconds 
+
+	AED: 0.134584
+	top80 error: 0.047587
+	CE ( error <=0.1) : 63.277311 percent
+---------------------
+1191/1550 
+	IMG_1191.tif
+	groundTruth: 4.480000
+	our result: 4.543484 
+	error: 0.063484
+OK	time: 7.988610 seconds 
+
+	AED: 0.134525
+	top80 error: 0.047600
+	CE ( error <=0.1) : 63.308144 percent
+---------------------
+1192/1550 
+	IMG_1192.tif
+	groundTruth: 2.320000
+	our result: 2.390097 
+	error: 0.070097
+OK	time: 7.881670 seconds 
+
+	AED: 0.134470
+	top80 error: 0.047619
+	CE ( error <=0.1) : 63.338926 percent
+---------------------
+1193/1550 
+	IMG_1193.tif
+	groundTruth: -13.530000
+	our result: -13.425643 
+	error: 0.104357
+NOT OK	time: 8.317663 seconds 
+
+	AED: 0.134445
+	top80 error: 0.047544
+	CE ( error <=0.1) : 63.285834 percent
+---------------------
+1194/1550 
+	IMG_1194.tif
+	groundTruth: -10.220000
+	our result: -10.144580 
+	error: 0.075420
+OK	time: 8.233318 seconds 
+
+	AED: 0.134396
+	top80 error: 0.047567
+	CE ( error <=0.1) : 63.316583 percent
+---------------------
+1195/1550 
+	IMG_1195.tif
+	groundTruth: 12.850000
+	our result: 12.909500 
+	error: 0.059500
+OK	time: 8.302472 seconds 
+
+	AED: 0.134333
+	top80 error: 0.047577
+	CE ( error <=0.1) : 63.347280 percent
+---------------------
+1196/1550 
+	IMG_1196.tif
+	groundTruth: 8.580000
+	our result: 8.637854 
+	error: 0.057854
+OK	time: 8.147773 seconds 
+
+	AED: 0.134269
+	top80 error: 0.047586
+	CE ( error <=0.1) : 63.377926 percent
+---------------------
+1197/1550 
+	IMG_1197.tif
+	groundTruth: -2.430000
+	our result: -2.343604 
+	error: 0.086396
+OK	time: 7.884854 seconds 
+
+	AED: 0.134229
+	top80 error: 0.047618
+	CE ( error <=0.1) : 63.408521 percent
+---------------------
+1198/1550 
+	IMG_1198.tif
+	groundTruth: 14.850000
+	our result: 14.877588 
+	error: 0.027588
+OK	time: 7.922018 seconds 
+
+	AED: 0.134140
+	top80 error: 0.047479
+	CE ( error <=0.1) : 63.439065 percent
+---------------------
+1199/1550 
+	IMG_1199.tif
+	groundTruth: -3.950000
+	our result: -3.920465 
+	error: 0.029535
+OK	time: 7.942665 seconds 
+
+	AED: 0.134053
+	top80 error: 0.047464
+	CE ( error <=0.1) : 63.469558 percent
+---------------------
+1200/1550 
+	IMG_1200.tif
+	groundTruth: 9.850000
+	our result: 9.889491 
+	error: 0.039491
+OK	time: 8.181080 seconds 
+
+	AED: 0.133974
+	top80 error: 0.047457
+	CE ( error <=0.1) : 63.500000 percent
+---------------------
+1201/1550 
+	IMG_1201.tif
+	groundTruth: -4.270000
+	our result: -4.033897 
+	error: 0.236103
+NOT OK	time: 8.005819 seconds 
+
+	AED: 0.134059
+	top80 error: 0.047540
+	CE ( error <=0.1) : 63.447127 percent
+---------------------
+1202/1550 
+	IMG_1202.tif
+	groundTruth: -9.700000
+	our result: -9.431672 
+	error: 0.268328
+NOT OK	time: 8.205598 seconds 
+
+	AED: 0.134171
+	top80 error: 0.047623
+	CE ( error <=0.1) : 63.394343 percent
+---------------------
+1203/1550 
+	IMG_1203.tif
+	groundTruth: -11.030000
+	our result: -10.762934 
+	error: 0.267066
+NOT OK	time: 8.250918 seconds 
+
+	AED: 0.134281
+	top80 error: 0.047583
+	CE ( error <=0.1) : 63.341646 percent
+---------------------
+1204/1550 
+	IMG_1204.tif
+	groundTruth: -13.630000
+	our result: -13.427028 
+	error: 0.202972
+NOT OK	time: 8.312420 seconds 
+
+	AED: 0.134338
+	top80 error: 0.047666
+	CE ( error <=0.1) : 63.289037 percent
+---------------------
+1205/1550 
+	IMG_1205.tif
+	groundTruth: 10.420000
+	our result: 10.647507 
+	error: 0.227507
+NOT OK	time: 8.227381 seconds 
+
+	AED: 0.134416
+	top80 error: 0.047749
+	CE ( error <=0.1) : 63.236515 percent
+---------------------
+1206/1550 
+	IMG_1206.tif
+	groundTruth: 8.030000
+	our result: 8.248277 
+	error: 0.218277
+NOT OK	time: 8.115707 seconds 
+
+	AED: 0.134485
+	top80 error: 0.047832
+	CE ( error <=0.1) : 63.184080 percent
+---------------------
+1207/1550 
+	IMG_1207.tif
+	groundTruth: 13.400000
+	our result: 13.570559 
+	error: 0.170559
+NOT OK	time: 8.333341 seconds 
+
+	AED: 0.134515
+	top80 error: 0.047916
+	CE ( error <=0.1) : 63.131732 percent
+---------------------
+1208/1550 
+	IMG_1208.tif
+	groundTruth: 2.390000
+	our result: 2.632152 
+	error: 0.242152
+NOT OK	time: 7.899675 seconds 
+
+	AED: 0.134604
+	top80 error: 0.047876
+	CE ( error <=0.1) : 63.079470 percent
+---------------------
+1209/1550 
+	IMG_1209.tif
+	groundTruth: -8.020000
+	our result: -7.767078 
+	error: 0.252922
+NOT OK	time: 8.121690 seconds 
+
+	AED: 0.134702
+	top80 error: 0.047960
+	CE ( error <=0.1) : 63.027295 percent
+---------------------
+1210/1550 
+	IMG_1210.tif
+	groundTruth: 11.290000
+	our result: 11.541498 
+	error: 0.251498
+NOT OK	time: 8.253196 seconds 
+
+	AED: 0.134799
+	top80 error: 0.048045
+	CE ( error <=0.1) : 62.975207 percent
+---------------------
+1211/1550 
+	IMG_1211.tif
+	groundTruth: 13.450000
+	our result: 13.618273 
+	error: 0.168273
+NOT OK	time: 8.385399 seconds 
+
+	AED: 0.134826
+	top80 error: 0.048129
+	CE ( error <=0.1) : 62.923204 percent
+---------------------
+1212/1550 
+	IMG_1212.tif
+	groundTruth: 1.120000
+	our result: 1.277429 
+	error: 0.157429
+NOT OK	time: 7.945536 seconds 
+
+	AED: 0.134845
+	top80 error: 0.048213
+	CE ( error <=0.1) : 62.871287 percent
+---------------------
+1213/1550 
+	IMG_1213.tif
+	groundTruth: 10.770000
+	our result: 10.949536 
+	error: 0.179536
+NOT OK	time: 8.316436 seconds 
+
+	AED: 0.134882
+	top80 error: 0.048173
+	CE ( error <=0.1) : 62.819456 percent
+---------------------
+1214/1550 
+	IMG_1214.tif
+	groundTruth: 4.080000
+	our result: 4.268377 
+	error: 0.188377
+NOT OK	time: 8.079340 seconds 
+
+	AED: 0.134926
+	top80 error: 0.048258
+	CE ( error <=0.1) : 62.767710 percent
+---------------------
+1215/1550 
+	IMG_1215.tif
+	groundTruth: -6.520000
+	our result: -6.327821 
+	error: 0.192179
+NOT OK	time: 8.150877 seconds 
+
+	AED: 0.134973
+	top80 error: 0.048342
+	CE ( error <=0.1) : 62.716049 percent
+---------------------
+1216/1550 
+	IMG_1216.tif
+	groundTruth: -2.060000
+	our result: -1.882241 
+	error: 0.177759
+NOT OK	time: 7.998051 seconds 
+
+	AED: 0.135008
+	top80 error: 0.048426
+	CE ( error <=0.1) : 62.664474 percent
+---------------------
+1217/1550 
+	IMG_1217.tif
+	groundTruth: -10.390000
+	our result: -10.212822 
+	error: 0.177178
+NOT OK	time: 8.307561 seconds 
+
+	AED: 0.135043
+	top80 error: 0.048510
+	CE ( error <=0.1) : 62.612983 percent
+---------------------
+1218/1550 
+	IMG_1218.tif
+	groundTruth: -12.860000
+	our result: -12.713937 
+	error: 0.146063
+NOT OK	time: 8.363395 seconds 
+
+	AED: 0.135052
+	top80 error: 0.048467
+	CE ( error <=0.1) : 62.561576 percent
+---------------------
+1219/1550 
+	IMG_1219.tif
+	groundTruth: 3.190000
+	our result: 3.376381 
+	error: 0.186381
+NOT OK	time: 8.048669 seconds 
+
+	AED: 0.135094
+	top80 error: 0.048551
+	CE ( error <=0.1) : 62.510254 percent
+---------------------
+1220/1550 
+	IMG_1220.tif
+	groundTruth: -9.350000
+	our result: -9.166583 
+	error: 0.183417
+NOT OK	time: 8.262617 seconds 
+
+	AED: 0.135134
+	top80 error: 0.048635
+	CE ( error <=0.1) : 62.459016 percent
+---------------------
+1221/1550 
+	IMG_1221.tif
+	groundTruth: 10.270000
+	our result: 10.272001 
+	error: 0.002001
+OK	time: 8.235441 seconds 
+
+	AED: 0.135024
+	top80 error: 0.048596
+	CE ( error <=0.1) : 62.489762 percent
+---------------------
+1222/1550 
+	IMG_1222.tif
+	groundTruth: -6.360000
+	our result: -6.442556 
+	error: 0.082556
+OK	time: 8.093072 seconds 
+
+	AED: 0.134982
+	top80 error: 0.048624
+	CE ( error <=0.1) : 62.520458 percent
+---------------------
+1223/1550 
+	IMG_1223.tif
+	groundTruth: 4.540000
+	our result: 4.462391 
+	error: 0.077609
+OK	time: 8.003043 seconds 
+
+	AED: 0.134935
+	top80 error: 0.048524
+	CE ( error <=0.1) : 62.551104 percent
+---------------------
+1224/1550 
+	IMG_1224.tif
+	groundTruth: -13.610000
+	our result: -13.622061 
+	error: 0.012061
+OK	time: 8.354939 seconds 
+
+	AED: 0.134834
+	top80 error: 0.048495
+	CE ( error <=0.1) : 62.581699 percent
+---------------------
+1225/1550 
+	IMG_1225.tif
+	groundTruth: -3.900000
+	our result: -3.958589 
+	error: 0.058589
+OK	time: 7.982389 seconds 
+
+	AED: 0.134772
+	top80 error: 0.048503
+	CE ( error <=0.1) : 62.612245 percent
+---------------------
+1226/1550 
+	IMG_1226.tif
+	groundTruth: 6.580000
+	our result: 6.558574 
+	error: 0.021426
+OK	time: 8.099623 seconds 
+
+	AED: 0.134680
+	top80 error: 0.048481
+	CE ( error <=0.1) : 62.642741 percent
+---------------------
+1227/1550 
+	IMG_1227.tif
+	groundTruth: -2.070000
+	our result: -2.080919 
+	error: 0.010919
+OK	time: 7.896910 seconds 
+
+	AED: 0.134579
+	top80 error: 0.048450
+	CE ( error <=0.1) : 62.673187 percent
+---------------------
+1228/1550 
+	IMG_1228.tif
+	groundTruth: 3.050000
+	our result: 3.034844 
+	error: 0.015156
+OK	time: 7.945571 seconds 
+
+	AED: 0.134481
+	top80 error: 0.048300
+	CE ( error <=0.1) : 62.703583 percent
+---------------------
+1229/1550 
+	IMG_1229.tif
+	groundTruth: -12.480000
+	our result: -12.554521 
+	error: 0.074521
+OK	time: 8.308510 seconds 
+
+	AED: 0.134433
+	top80 error: 0.048322
+	CE ( error <=0.1) : 62.733930 percent
+---------------------
+1230/1550 
+	IMG_1230.tif
+	groundTruth: -9.070000
+	our result: -9.085491 
+	error: 0.015491
+OK	time: 8.189544 seconds 
+
+	AED: 0.134336
+	top80 error: 0.048295
+	CE ( error <=0.1) : 62.764228 percent
+---------------------
+1231/1550 
+	IMG_1231.tif
+	groundTruth: -3.640000
+	our result: -3.577217 
+	error: 0.062783
+OK	time: 8.057265 seconds 
+
+	AED: 0.134278
+	top80 error: 0.048307
+	CE ( error <=0.1) : 62.794476 percent
+---------------------
+1232/1550 
+	IMG_1232.tif
+	groundTruth: 7.610000
+	our result: 7.659757 
+	error: 0.049757
+OK	time: 8.213476 seconds 
+
+	AED: 0.134209
+	top80 error: 0.048308
+	CE ( error <=0.1) : 62.824675 percent
+---------------------
+1233/1550 
+	IMG_1233.tif
+	groundTruth: 2.280000
+	our result: 2.344032 
+	error: 0.064032
+OK	time: 7.995918 seconds 
+
+	AED: 0.134152
+	top80 error: 0.048198
+	CE ( error <=0.1) : 62.854826 percent
+---------------------
+1234/1550 
+	IMG_1234.tif
+	groundTruth: 3.760000
+	our result: 3.783390 
+	error: 0.023390
+OK	time: 8.061195 seconds 
+
+	AED: 0.134063
+	top80 error: 0.048178
+	CE ( error <=0.1) : 62.884927 percent
+---------------------
+1235/1550 
+	IMG_1235.tif
+	groundTruth: 12.010000
+	our result: 12.052022 
+	error: 0.042022
+OK	time: 8.353411 seconds 
+
+	AED: 0.133988
+	top80 error: 0.048173
+	CE ( error <=0.1) : 62.914980 percent
+---------------------
+1236/1550 
+	IMG_1236.tif
+	groundTruth: -5.210000
+	our result: -5.173833 
+	error: 0.036167
+OK	time: 8.104838 seconds 
+
+	AED: 0.133909
+	top80 error: 0.048163
+	CE ( error <=0.1) : 62.944984 percent
+---------------------
+1237/1550 
+	IMG_1237.tif
+	groundTruth: 8.620000
+	our result: 8.636734 
+	error: 0.016734
+OK	time: 8.256175 seconds 
+
+	AED: 0.133814
+	top80 error: 0.048138
+	CE ( error <=0.1) : 62.974939 percent
+---------------------
+1238/1550 
+	IMG_1238.tif
+	groundTruth: -10.890000
+	our result: -10.884227 
+	error: 0.005773
+OK	time: 8.328012 seconds 
+
+	AED: 0.133711
+	top80 error: 0.047982
+	CE ( error <=0.1) : 63.004847 percent
+---------------------
+1239/1550 
+	IMG_1239.tif
+	groundTruth: -0.670000
+	our result: -0.651397 
+	error: 0.018603
+OK	time: 7.929283 seconds 
+
+	AED: 0.133618
+	top80 error: 0.047958
+	CE ( error <=0.1) : 63.034705 percent
+---------------------
+1240/1550 
+	IMG_1240.tif
+	groundTruth: 0.730000
+	our result: 0.797269 
+	error: 0.067269
+OK	time: 7.930904 seconds 
+
+	AED: 0.133564
+	top80 error: 0.047974
+	CE ( error <=0.1) : 63.064516 percent
+---------------------
+1241/1550 
+	IMG_1241.tif
+	groundTruth: -12.470000
+	our result: -12.466179 
+	error: 0.003821
+OK	time: 8.343590 seconds 
+
+	AED: 0.133460
+	top80 error: 0.047938
+	CE ( error <=0.1) : 63.094279 percent
+---------------------
+1242/1550 
+	IMG_1242.tif
+	groundTruth: -1.040000
+	our result: -0.994053 
+	error: 0.045947
+OK	time: 7.930034 seconds 
+
+	AED: 0.133389
+	top80 error: 0.047937
+	CE ( error <=0.1) : 63.123994 percent
+---------------------
+1243/1550 
+	IMG_1243.tif
+	groundTruth: 9.790000
+	our result: 9.831859 
+	error: 0.041859
+OK	time: 8.273883 seconds 
+
+	AED: 0.133316
+	top80 error: 0.047811
+	CE ( error <=0.1) : 63.153660 percent
+---------------------
+1244/1550 
+	IMG_1244.tif
+	groundTruth: 0.800000
+	our result: 0.759146 
+	error: 0.040854
+OK	time: 7.910163 seconds 
+
+	AED: 0.133241
+	top80 error: 0.047805
+	CE ( error <=0.1) : 63.183280 percent
+---------------------
+1245/1550 
+	IMG_1245.tif
+	groundTruth: 8.600000
+	our result: 8.593337 
+	error: 0.006663
+OK	time: 8.230454 seconds 
+
+	AED: 0.133140
+	top80 error: 0.047772
+	CE ( error <=0.1) : 63.212851 percent
+---------------------
+1246/1550 
+	IMG_1246.tif
+	groundTruth: -13.520000
+	our result: -13.497245 
+	error: 0.022755
+OK	time: 8.381714 seconds 
+
+	AED: 0.133051
+	top80 error: 0.047752
+	CE ( error <=0.1) : 63.242376 percent
+---------------------
+1247/1550 
+	IMG_1247.tif
+	groundTruth: -3.240000
+	our result: -3.208168 
+	error: 0.031832
+OK	time: 8.038653 seconds 
+
+	AED: 0.132970
+	top80 error: 0.047739
+	CE ( error <=0.1) : 63.271852 percent
+---------------------
+1248/1550 
+	IMG_1248.tif
+	groundTruth: -5.680000
+	our result: -5.686251 
+	error: 0.006251
+OK	time: 8.128368 seconds 
+
+	AED: 0.132868
+	top80 error: 0.047586
+	CE ( error <=0.1) : 63.301282 percent
+---------------------
+1249/1550 
+	IMG_1249.tif
+	groundTruth: 3.980000
+	our result: 3.995856 
+	error: 0.015856
+OK	time: 8.057279 seconds 
+
+	AED: 0.132775
+	top80 error: 0.047560
+	CE ( error <=0.1) : 63.330665 percent
+---------------------
+1250/1550 
+	IMG_1250.tif
+	groundTruth: 13.860000
+	our result: 13.879145 
+	error: 0.019145
+OK	time: 8.388322 seconds 
+
+	AED: 0.132684
+	top80 error: 0.047537
+	CE ( error <=0.1) : 63.360000 percent
+---------------------
+1251/1550 
+	IMG_1251.tif
+	groundTruth: 0.640000
+	our result: 0.695221 
+	error: 0.055221
+OK	time: 7.978036 seconds 
+
+	AED: 0.132622
+	top80 error: 0.047544
+	CE ( error <=0.1) : 63.389289 percent
+---------------------
+1252/1550 
+	IMG_1252.tif
+	groundTruth: -5.270000
+	our result: -5.174525 
+	error: 0.095475
+OK	time: 8.147622 seconds 
+
+	AED: 0.132592
+	top80 error: 0.047582
+	CE ( error <=0.1) : 63.418530 percent
+---------------------
+1253/1550 
+	IMG_1253.tif
+	groundTruth: 9.450000
+	our result: 9.535796 
+	error: 0.085796
+OK	time: 8.305621 seconds 
+
+	AED: 0.132555
+	top80 error: 0.047493
+	CE ( error <=0.1) : 63.447725 percent
+---------------------
+1254/1550 
+	IMG_1254.tif
+	groundTruth: -0.300000
+	our result: -0.225672 
+	error: 0.074328
+OK	time: 7.960283 seconds 
+
+	AED: 0.132508
+	top80 error: 0.047514
+	CE ( error <=0.1) : 63.476874 percent
+---------------------
+1255/1550 
+	IMG_1255.tif
+	groundTruth: 1.750000
+	our result: 1.797789 
+	error: 0.047789
+OK	time: 8.010211 seconds 
+
+	AED: 0.132441
+	top80 error: 0.047514
+	CE ( error <=0.1) : 63.505976 percent
+---------------------
+1256/1550 
+	IMG_1256.tif
+	groundTruth: 10.870000
+	our result: 10.928744 
+	error: 0.058744
+OK	time: 8.344560 seconds 
+
+	AED: 0.132382
+	top80 error: 0.047523
+	CE ( error <=0.1) : 63.535032 percent
+---------------------
+1257/1550 
+	IMG_1257.tif
+	groundTruth: 14.120000
+	our result: 14.209411 
+	error: 0.089411
+OK	time: 7.993579 seconds 
+
+	AED: 0.132348
+	top80 error: 0.047557
+	CE ( error <=0.1) : 63.564041 percent
+---------------------
+1258/1550 
+	IMG_1258.tif
+	groundTruth: 6.150000
+	our result: 6.219807 
+	error: 0.069807
+OK	time: 8.196672 seconds 
+
+	AED: 0.132298
+	top80 error: 0.047455
+	CE ( error <=0.1) : 63.593005 percent
+---------------------
+1259/1550 
+	IMG_1259.tif
+	groundTruth: 3.160000
+	our result: 3.231792 
+	error: 0.071792
+OK	time: 8.090372 seconds 
+
+	AED: 0.132250
+	top80 error: 0.047474
+	CE ( error <=0.1) : 63.621922 percent
+---------------------
+1260/1550 
+	IMG_1260.tif
+	groundTruth: -8.130000
+	our result: -8.061084 
+	error: 0.068916
+OK	time: 8.237941 seconds 
+
+	AED: 0.132200
+	top80 error: 0.047492
+	CE ( error <=0.1) : 63.650794 percent
+---------------------
+1261/1550 
+	IMG_1261.tif
+	groundTruth: 3.530000
+	our result: 3.503110 
+	error: 0.026890
+OK	time: 8.085062 seconds 
+
+	AED: 0.132117
+	top80 error: 0.047475
+	CE ( error <=0.1) : 63.679619 percent
+---------------------
+1262/1550 
+	IMG_1262.tif
+	groundTruth: 12.120000
+	our result: 12.095154 
+	error: 0.024846
+OK	time: 8.375419 seconds 
+
+	AED: 0.132032
+	top80 error: 0.047457
+	CE ( error <=0.1) : 63.708399 percent
+---------------------
+1263/1550 
+	IMG_1263.tif
+	groundTruth: -14.800000
+	our result: -14.795375 
+	error: 0.004625
+OK	time: 8.024349 seconds 
+
+	AED: 0.131931
+	top80 error: 0.047305
+	CE ( error <=0.1) : 63.737134 percent
+---------------------
+1264/1550 
+	IMG_1264.tif
+	groundTruth: -12.710000
+	our result: -12.670804 
+	error: 0.039196
+OK	time: 8.397600 seconds 
+
+	AED: 0.131857
+	top80 error: 0.047299
+	CE ( error <=0.1) : 63.765823 percent
+---------------------
+1265/1550 
+	IMG_1265.tif
+	groundTruth: 5.500000
+	our result: 5.496289 
+	error: 0.003711
+OK	time: 8.146462 seconds 
+
+	AED: 0.131756
+	top80 error: 0.047264
+	CE ( error <=0.1) : 63.794466 percent
+---------------------
+1266/1550 
+	IMG_1266.tif
+	groundTruth: 8.400000
+	our result: 8.462391 
+	error: 0.062391
+OK	time: 8.253768 seconds 
+
+	AED: 0.131701
+	top80 error: 0.047276
+	CE ( error <=0.1) : 63.823065 percent
+---------------------
+1267/1550 
+	IMG_1267.tif
+	groundTruth: -1.190000
+	our result: -1.171756 
+	error: 0.018244
+OK	time: 7.986232 seconds 
+
+	AED: 0.131612
+	top80 error: 0.047253
+	CE ( error <=0.1) : 63.851618 percent
+---------------------
+1268/1550 
+	IMG_1268.tif
+	groundTruth: 10.480000
+	our result: 10.508884 
+	error: 0.028884
+OK	time: 8.317767 seconds 
+
+	AED: 0.131531
+	top80 error: 0.047121
+	CE ( error <=0.1) : 63.880126 percent
+---------------------
+1269/1550 
+	IMG_1269.tif
+	groundTruth: -5.300000
+	our result: -5.308403 
+	error: 0.008403
+OK	time: 8.144963 seconds 
+
+	AED: 0.131434
+	top80 error: 0.047091
+	CE ( error <=0.1) : 63.908589 percent
+---------------------
+1270/1550 
+	IMG_1270.tif
+	groundTruth: -2.780000
+	our result: -2.736378 
+	error: 0.043622
+OK	time: 8.053105 seconds 
+
+	AED: 0.131364
+	top80 error: 0.047088
+	CE ( error <=0.1) : 63.937008 percent
+---------------------
+1271/1550 
+	IMG_1271.tif
+	groundTruth: 13.820000
+	our result: 13.760257 
+	error: 0.059743
+OK	time: 8.439598 seconds 
+
+	AED: 0.131308
+	top80 error: 0.047098
+	CE ( error <=0.1) : 63.965382 percent
+---------------------
+1272/1550 
+	IMG_1272.tif
+	groundTruth: 9.740000
+	our result: 9.705923 
+	error: 0.034077
+OK	time: 8.305584 seconds 
+
+	AED: 0.131232
+	top80 error: 0.047088
+	CE ( error <=0.1) : 63.993711 percent
+---------------------
+1273/1550 
+	IMG_1273.tif
+	groundTruth: -10.310000
+	our result: -10.340671 
+	error: 0.030671
+OK	time: 8.307533 seconds 
+
+	AED: 0.131153
+	top80 error: 0.046958
+	CE ( error <=0.1) : 64.021995 percent
+---------------------
+1274/1550 
+	IMG_1274.tif
+	groundTruth: -7.410000
+	our result: -7.444094 
+	error: 0.034094
+OK	time: 8.221915 seconds 
+
+	AED: 0.131076
+	top80 error: 0.046948
+	CE ( error <=0.1) : 64.050235 percent
+---------------------
+1275/1550 
+	IMG_1275.tif
+	groundTruth: 3.570000
+	our result: 3.483602 
+	error: 0.086398
+OK	time: 8.113496 seconds 
+
+	AED: 0.131041
+	top80 error: 0.046979
+	CE ( error <=0.1) : 64.078431 percent
+---------------------
+1276/1550 
+	IMG_1276.tif
+	groundTruth: -11.980000
+	our result: -12.026749 
+	error: 0.046749
+OK	time: 8.356141 seconds 
+
+	AED: 0.130975
+	top80 error: 0.046979
+	CE ( error <=0.1) : 64.106583 percent
+---------------------
+1277/1550 
+	IMG_1277.tif
+	groundTruth: 0.790000
+	our result: 0.737397 
+	error: 0.052603
+OK	time: 7.967872 seconds 
+
+	AED: 0.130914
+	top80 error: 0.046983
+	CE ( error <=0.1) : 64.134691 percent
+---------------------
+1278/1550 
+	IMG_1278.tif
+	groundTruth: -1.550000
+	our result: -1.599558 
+	error: 0.049558
+OK	time: 7.978994 seconds 
+
+	AED: 0.130850
+	top80 error: 0.046870
+	CE ( error <=0.1) : 64.162754 percent
+---------------------
+1279/1550 
+	IMG_1279.tif
+	groundTruth: -4.520000
+	our result: -4.600423 
+	error: 0.080423
+OK	time: 8.105868 seconds 
+
+	AED: 0.130811
+	top80 error: 0.046896
+	CE ( error <=0.1) : 64.190774 percent
+---------------------
+1280/1550 
+	IMG_1280.tif
+	groundTruth: 4.460000
+	our result: 4.393294 
+	error: 0.066706
+OK	time: 8.110295 seconds 
+
+	AED: 0.130761
+	top80 error: 0.046912
+	CE ( error <=0.1) : 64.218750 percent
+---------------------
+1281/1550 
+	IMG_1281.tif
+	groundTruth: -3.810000
+	our result: -3.669511 
+	error: 0.140489
+NOT OK	time: 8.064652 seconds 
+
+	AED: 0.130768
+	top80 error: 0.046985
+	CE ( error <=0.1) : 64.168618 percent
+---------------------
+1282/1550 
+	IMG_1282.tif
+	groundTruth: 11.890000
+	our result: 11.978689 
+	error: 0.088689
+OK	time: 8.349473 seconds 
+
+	AED: 0.130736
+	top80 error: 0.047017
+	CE ( error <=0.1) : 64.196568 percent
+---------------------
+1283/1550 
+	IMG_1283.tif
+	groundTruth: 5.680000
+	our result: 5.821941 
+	error: 0.141941
+NOT OK	time: 8.147925 seconds 
+
+	AED: 0.130744
+	top80 error: 0.046976
+	CE ( error <=0.1) : 64.146532 percent
+---------------------
+1284/1550 
+	IMG_1284.tif
+	groundTruth: -1.880000
+	our result: -1.696433 
+	error: 0.183567
+NOT OK	time: 7.997719 seconds 
+
+	AED: 0.130785
+	top80 error: 0.047054
+	CE ( error <=0.1) : 64.096573 percent
+---------------------
+1285/1550 
+	IMG_1285.tif
+	groundTruth: 8.480000
+	our result: 8.608692 
+	error: 0.128692
+NOT OK	time: 8.255763 seconds 
+
+	AED: 0.130784
+	top80 error: 0.047118
+	CE ( error <=0.1) : 64.046693 percent
+---------------------
+1286/1550 
+	IMG_1286.tif
+	groundTruth: -8.910000
+	our result: -8.809264 
+	error: 0.100736
+NOT OK	time: 8.264664 seconds 
+
+	AED: 0.130760
+	top80 error: 0.047160
+	CE ( error <=0.1) : 63.996890 percent
+---------------------
+1287/1550 
+	IMG_1287.tif
+	groundTruth: -12.780000
+	our result: -12.663656 
+	error: 0.116344
+NOT OK	time: 8.373592 seconds 
+
+	AED: 0.130749
+	top80 error: 0.047213
+	CE ( error <=0.1) : 63.947164 percent
+---------------------
+1288/1550 
+	IMG_1288.tif
+	groundTruth: 1.560000
+	our result: 1.716004 
+	error: 0.156004
+NOT OK	time: 7.984129 seconds 
+
+	AED: 0.130769
+	top80 error: 0.047177
+	CE ( error <=0.1) : 63.897516 percent
+---------------------
+1289/1550 
+	IMG_1289.tif
+	groundTruth: -10.050000
+	our result: -9.937205 
+	error: 0.112795
+NOT OK	time: 8.295802 seconds 
+
+	AED: 0.130755
+	top80 error: 0.047228
+	CE ( error <=0.1) : 63.847944 percent
+---------------------
+1290/1550 
+	IMG_1290.tif
+	groundTruth: 9.910000
+	our result: 10.088943 
+	error: 0.178943
+NOT OK	time: 8.292050 seconds 
+
+	AED: 0.130792
+	top80 error: 0.047305
+	CE ( error <=0.1) : 63.798450 percent
+---------------------
+1291/1550 
+	IMG_1291.tif
+	groundTruth: 3.390000
+	our result: 3.376544 
+	error: 0.013456
+OK	time: 8.038495 seconds 
+
+	AED: 0.130701
+	top80 error: 0.047279
+	CE ( error <=0.1) : 63.826491 percent
+---------------------
+1292/1550 
+	IMG_1292.tif
+	groundTruth: -6.070000
+	our result: -6.086784 
+	error: 0.016784
+OK	time: 8.143697 seconds 
+
+	AED: 0.130613
+	top80 error: 0.047256
+	CE ( error <=0.1) : 63.854489 percent
+---------------------
+1293/1550 
+	IMG_1293.tif
+	groundTruth: -8.010000
+	our result: -8.040027 
+	error: 0.030027
+OK	time: 8.202809 seconds 
+
+	AED: 0.130535
+	top80 error: 0.047128
+	CE ( error <=0.1) : 63.882444 percent
+---------------------
+1294/1550 
+	IMG_1294.tif
+	groundTruth: 2.480000
+	our result: 2.470761 
+	error: 0.009239
+OK	time: 8.004658 seconds 
+
+	AED: 0.130442
+	top80 error: 0.047099
+	CE ( error <=0.1) : 63.910355 percent
+---------------------
+1295/1550 
+	IMG_1295.tif
+	groundTruth: 1.590000
+	our result: 1.582982 
+	error: 0.007018
+OK	time: 7.956566 seconds 
+
+	AED: 0.130346
+	top80 error: 0.047068
+	CE ( error <=0.1) : 63.938224 percent
+---------------------
+1296/1550 
+	IMG_1296.tif
+	groundTruth: 13.980000
+	our result: 13.948935 
+	error: 0.031065
+OK	time: 8.396694 seconds 
+
+	AED: 0.130270
+	top80 error: 0.047056
+	CE ( error <=0.1) : 63.966049 percent
+---------------------
+1297/1550 
+	IMG_1297.tif
+	groundTruth: 10.100000
+	our result: 10.054425 
+	error: 0.045575
+OK	time: 8.289998 seconds 
+
+	AED: 0.130204
+	top80 error: 0.047055
+	CE ( error <=0.1) : 63.993832 percent
+---------------------
+1298/1550 
+	IMG_1298.tif
+	groundTruth: 5.230000
+	our result: 5.199269 
+	error: 0.030731
+OK	time: 8.096041 seconds 
+
+	AED: 0.130128
+	top80 error: 0.046928
+	CE ( error <=0.1) : 64.021572 percent
+---------------------
+1299/1550 
+	IMG_1299.tif
+	groundTruth: 14.870000
+	our result: 14.829150 
+	error: 0.040850
+OK	time: 7.971379 seconds 
+
+	AED: 0.130059
+	top80 error: 0.046924
+	CE ( error <=0.1) : 64.049269 percent
+---------------------
+1300/1550 
+	IMG_1300.tif
+	groundTruth: -13.070000
+	our result: -13.143979 
+	error: 0.073979
+OK	time: 8.363454 seconds 
+
+	AED: 0.130016
+	top80 error: 0.046944
+	CE ( error <=0.1) : 64.076923 percent
+---------------------
+1301/1550 
+	IMG_1301.tif
+	groundTruth: -8.400000
+	our result: -8.394577 
+	error: 0.005423
+OK	time: 8.236570 seconds 
+
+	AED: 0.129920
+	top80 error: 0.046913
+	CE ( error <=0.1) : 64.104535 percent
+---------------------
+1302/1550 
+	IMG_1302.tif
+	groundTruth: 4.690000
+	our result: 4.774929 
+	error: 0.084929
+OK	time: 8.102051 seconds 
+
+	AED: 0.129886
+	top80 error: 0.046942
+	CE ( error <=0.1) : 64.132104 percent
+---------------------
+1303/1550 
+	IMG_1303.tif
+	groundTruth: 1.310000
+	our result: 1.339277 
+	error: 0.029277
+OK	time: 7.967361 seconds 
+
+	AED: 0.129808
+	top80 error: 0.046815
+	CE ( error <=0.1) : 64.159632 percent
+---------------------
+1304/1550 
+	IMG_1304.tif
+	groundTruth: -5.810000
+	our result: -5.761641 
+	error: 0.048359
+OK	time: 8.138119 seconds 
+
+	AED: 0.129746
+	top80 error: 0.046817
+	CE ( error <=0.1) : 64.187117 percent
+---------------------
+1305/1550 
+	IMG_1305.tif
+	groundTruth: 3.120000
+	our result: 3.125855 
+	error: 0.005855
+OK	time: 8.025432 seconds 
+
+	AED: 0.129651
+	top80 error: 0.046785
+	CE ( error <=0.1) : 64.214559 percent
+---------------------
+1306/1550 
+	IMG_1306.tif
+	groundTruth: 10.850000
+	our result: 10.903207 
+	error: 0.053207
+OK	time: 8.308940 seconds 
+
+	AED: 0.129593
+	top80 error: 0.046790
+	CE ( error <=0.1) : 64.241960 percent
+---------------------
+1307/1550 
+	IMG_1307.tif
+	groundTruth: 9.680000
+	our result: 9.656233 
+	error: 0.023767
+OK	time: 8.276395 seconds 
+
+	AED: 0.129512
+	top80 error: 0.046772
+	CE ( error <=0.1) : 64.269319 percent
+---------------------
+1308/1550 
+	IMG_1308.tif
+	groundTruth: -6.640000
+	our result: -6.615514 
+	error: 0.024486
+OK	time: 8.159469 seconds 
+
+	AED: 0.129431
+	top80 error: 0.046643
+	CE ( error <=0.1) : 64.296636 percent
+---------------------
+1309/1550 
+	IMG_1309.tif
+	groundTruth: -3.930000
+	our result: -3.873016 
+	error: 0.056984
+OK	time: 8.069250 seconds 
+
+	AED: 0.129376
+	top80 error: 0.046651
+	CE ( error <=0.1) : 64.323911 percent
+---------------------
+1310/1550 
+	IMG_1310.tif
+	groundTruth: 12.530000
+	our result: 12.515869 
+	error: 0.014131
+OK	time: 8.374029 seconds 
+
+	AED: 0.129288
+	top80 error: 0.046626
+	CE ( error <=0.1) : 64.351145 percent
+---------------------
+1311/1550 
+	IMG_1311.tif
+	groundTruth: -0.370000
+	our result: -0.412009 
+	error: 0.042009
+OK	time: 7.807558 seconds 
+
+	AED: 0.129221
+	top80 error: 0.046623
+	CE ( error <=0.1) : 64.378337 percent
+---------------------
+1312/1550 
+	IMG_1312.tif
+	groundTruth: -10.500000
+	our result: -10.567901 
+	error: 0.067901
+OK	time: 8.202082 seconds 
+
+	AED: 0.129175
+	top80 error: 0.046639
+	CE ( error <=0.1) : 64.405488 percent
+---------------------
+1313/1550 
+	IMG_1313.tif
+	groundTruth: -6.600000
+	our result: -6.649584 
+	error: 0.049584
+OK	time: 8.070543 seconds 
+
+	AED: 0.129114
+	top80 error: 0.046530
+	CE ( error <=0.1) : 64.432597 percent
+---------------------
+1314/1550 
+	IMG_1314.tif
+	groundTruth: 6.630000
+	our result: 6.557454 
+	error: 0.072546
+OK	time: 8.061127 seconds 
+
+	AED: 0.129071
+	top80 error: 0.046550
+	CE ( error <=0.1) : 64.459665 percent
+---------------------
+1315/1550 
+	IMG_1315.tif
+	groundTruth: 10.890000
+	our result: 10.807187 
+	error: 0.082813
+OK	time: 8.236895 seconds 
+
+	AED: 0.129036
+	top80 error: 0.046577
+	CE ( error <=0.1) : 64.486692 percent
+---------------------
+1316/1550 
+	IMG_1316.tif
+	groundTruth: 5.130000
+	our result: 5.064271 
+	error: 0.065729
+OK	time: 7.996605 seconds 
+
+	AED: 0.128988
+	top80 error: 0.046592
+	CE ( error <=0.1) : 64.513678 percent
+---------------------
+1317/1550 
+	IMG_1317.tif
+	groundTruth: -12.510000
+	our result: -12.572545 
+	error: 0.062545
+OK	time: 8.288711 seconds 
+
+	AED: 0.128937
+	top80 error: 0.046604
+	CE ( error <=0.1) : 64.540623 percent
+---------------------
+1318/1550 
+	IMG_1318.tif
+	groundTruth: 13.610000
+	our result: 13.574876 
+	error: 0.035124
+OK	time: 8.317255 seconds 
+
+	AED: 0.128866
+	top80 error: 0.046484
+	CE ( error <=0.1) : 64.567527 percent
+---------------------
+1319/1550 
+	IMG_1319.tif
+	groundTruth: 0.450000
+	our result: 0.405880 
+	error: 0.044120
+OK	time: 7.801566 seconds 
+
+	AED: 0.128802
+	top80 error: 0.046483
+	CE ( error <=0.1) : 64.594390 percent
+---------------------
+1320/1550 
+	IMG_1320.tif
+	groundTruth: -14.690000
+	our result: -14.820220 
+	error: 0.130220
+NOT OK	time: 7.916895 seconds 
+
+	AED: 0.128803
+	top80 error: 0.046546
+	CE ( error <=0.1) : 64.545455 percent
+---------------------
+1321/1550 
+	IMG_1321.tif
+	groundTruth: 14.490000
+	our result: 14.545938 
+	error: 0.055938
+OK	time: 8.078221 seconds 
+
+	AED: 0.128748
+	top80 error: 0.046553
+	CE ( error <=0.1) : 64.572294 percent
+---------------------
+1322/1550 
+	IMG_1322.tif
+	groundTruth: -11.130000
+	our result: -11.075573 
+	error: 0.054427
+OK	time: 8.421593 seconds 
+
+	AED: 0.128691
+	top80 error: 0.046559
+	CE ( error <=0.1) : 64.599092 percent
+---------------------
+1323/1550 
+	IMG_1323.tif
+	groundTruth: -5.570000
+	our result: -5.533984 
+	error: 0.036016
+OK	time: 8.237145 seconds 
+
+	AED: 0.128621
+	top80 error: 0.046441
+	CE ( error <=0.1) : 64.625850 percent
+---------------------
+1324/1550 
+	IMG_1324.tif
+	groundTruth: -3.730000
+	our result: -3.745166 
+	error: 0.015166
+OK	time: 8.173463 seconds 
+
+	AED: 0.128536
+	top80 error: 0.046417
+	CE ( error <=0.1) : 64.652568 percent
+---------------------
+1325/1550 
+	IMG_1325.tif
+	groundTruth: -14.210000
+	our result: -14.213035 
+	error: 0.003035
+OK	time: 8.050732 seconds 
+
+	AED: 0.128441
+	top80 error: 0.046385
+	CE ( error <=0.1) : 64.679245 percent
+---------------------
+1326/1550 
+	IMG_1326.tif
+	groundTruth: 9.000000
+	our result: 9.013889 
+	error: 0.013889
+OK	time: 8.344818 seconds 
+
+	AED: 0.128355
+	top80 error: 0.046360
+	CE ( error <=0.1) : 64.705882 percent
+---------------------
+1327/1550 
+	IMG_1327.tif
+	groundTruth: -7.410000
+	our result: -7.384058 
+	error: 0.025942
+OK	time: 8.288101 seconds 
+
+	AED: 0.128277
+	top80 error: 0.046345
+	CE ( error <=0.1) : 64.732479 percent
+---------------------
+1328/1550 
+	IMG_1328.tif
+	groundTruth: -0.180000
+	our result: -0.167449 
+	error: 0.012551
+OK	time: 8.029895 seconds 
+
+	AED: 0.128190
+	top80 error: 0.046210
+	CE ( error <=0.1) : 64.759036 percent
+---------------------
+1329/1550 
+	IMG_1329.tif
+	groundTruth: 3.580000
+	our result: 3.626643 
+	error: 0.046643
+OK	time: 8.173771 seconds 
+
+	AED: 0.128129
+	top80 error: 0.046210
+	CE ( error <=0.1) : 64.785553 percent
+---------------------
+1330/1550 
+	IMG_1330.tif
+	groundTruth: 6.540000
+	our result: 6.605759 
+	error: 0.065759
+OK	time: 8.258665 seconds 
+
+	AED: 0.128082
+	top80 error: 0.046225
+	CE ( error <=0.1) : 64.812030 percent
+---------------------
+1331/1550 
+	IMG_1331.tif
+	groundTruth: 5.340000
+	our result: 5.236373 
+	error: 0.103627
+NOT OK	time: 8.211022 seconds 
+
+	AED: 0.128064
+	top80 error: 0.046268
+	CE ( error <=0.1) : 64.763336 percent
+---------------------
+1332/1550 
+	IMG_1332.tif
+	groundTruth: 9.700000
+	our result: 9.578501 
+	error: 0.121499
+NOT OK	time: 8.362664 seconds 
+
+	AED: 0.128059
+	top80 error: 0.046325
+	CE ( error <=0.1) : 64.714715 percent
+---------------------
+1333/1550 
+	IMG_1333.tif
+	groundTruth: -2.540000
+	our result: -2.665468 
+	error: 0.125468
+NOT OK	time: 8.100851 seconds 
+
+	AED: 0.128057
+	top80 error: 0.046276
+	CE ( error <=0.1) : 64.666167 percent
+---------------------
+1334/1550 
+	IMG_1334.tif
+	groundTruth: 8.840000
+	our result: 8.765011 
+	error: 0.074989
+OK	time: 8.331710 seconds 
+
+	AED: 0.128017
+	top80 error: 0.046297
+	CE ( error <=0.1) : 64.692654 percent
+---------------------
+1335/1550 
+	IMG_1335.tif
+	groundTruth: -14.120000
+	our result: -14.226018 
+	error: 0.106018
+NOT OK	time: 8.060078 seconds 
+
+	AED: 0.128001
+	top80 error: 0.046342
+	CE ( error <=0.1) : 64.644195 percent
+---------------------
+1336/1550 
+	IMG_1336.tif
+	groundTruth: 3.170000
+	our result: 3.096265 
+	error: 0.073735
+OK	time: 8.134451 seconds 
+
+	AED: 0.127960
+	top80 error: 0.046362
+	CE ( error <=0.1) : 64.670659 percent
+---------------------
+1337/1550 
+	IMG_1337.tif
+	groundTruth: 6.600000
+	our result: 6.536397 
+	error: 0.063603
+OK	time: 8.257835 seconds 
+
+	AED: 0.127912
+	top80 error: 0.046375
+	CE ( error <=0.1) : 64.697083 percent
+---------------------
+1338/1550 
+	IMG_1338.tif
+	groundTruth: 13.920000
+	our result: 13.860329 
+	error: 0.059671
+OK	time: 8.501133 seconds 
+
+	AED: 0.127861
+	top80 error: 0.046277
+	CE ( error <=0.1) : 64.723468 percent
+---------------------
+1339/1550 
+	IMG_1339.tif
+	groundTruth: -9.780000
+	our result: -9.879309 
+	error: 0.099309
+OK	time: 8.371978 seconds 
+
+	AED: 0.127839
+	top80 error: 0.046317
+	CE ( error <=0.1) : 64.749813 percent
+---------------------
+1340/1550 
+	IMG_1340.tif
+	groundTruth: 0.740000
+	our result: 0.593072 
+	error: 0.146928
+NOT OK	time: 8.038740 seconds 
+
+	AED: 0.127854
+	top80 error: 0.046390
+	CE ( error <=0.1) : 64.701493 percent
+---------------------
+1341/1550 
+	IMG_1341.tif
+	groundTruth: -10.350000
+	our result: -10.280107 
+	error: 0.069893
+OK	time: 8.373957 seconds 
+
+	AED: 0.127811
+	top80 error: 0.046408
+	CE ( error <=0.1) : 64.727815 percent
+---------------------
+1342/1550 
+	IMG_1342.tif
+	groundTruth: 11.800000
+	our result: 11.833671 
+	error: 0.033671
+OK	time: 8.428617 seconds 
+
+	AED: 0.127740
+	top80 error: 0.046398
+	CE ( error <=0.1) : 64.754098 percent
+---------------------
+1343/1550 
+	IMG_1343.tif
+	groundTruth: 3.720000
+	our result: 3.787871 
+	error: 0.067871
+OK	time: 8.163214 seconds 
+
+	AED: 0.127696
+	top80 error: 0.046306
+	CE ( error <=0.1) : 64.780343 percent
+---------------------
+1344/1550 
+	IMG_1344.tif
+	groundTruth: -2.390000
+	our result: -2.355069 
+	error: 0.034931
+OK	time: 8.106839 seconds 
+
+	AED: 0.127627
+	top80 error: 0.046298
+	CE ( error <=0.1) : 64.806548 percent
+---------------------
+1345/1550 
+	IMG_1345.tif
+	groundTruth: -7.190000
+	our result: -7.143979 
+	error: 0.046021
+OK	time: 8.283714 seconds 
+
+	AED: 0.127566
+	top80 error: 0.046298
+	CE ( error <=0.1) : 64.832714 percent
+---------------------
+1346/1550 
+	IMG_1346.tif
+	groundTruth: 13.830000
+	our result: 13.910019 
+	error: 0.080019
+OK	time: 8.497442 seconds 
+
+	AED: 0.127531
+	top80 error: 0.046323
+	CE ( error <=0.1) : 64.858841 percent
+---------------------
+1347/1550 
+	IMG_1347.tif
+	groundTruth: 4.810000
+	our result: 4.869136 
+	error: 0.059136
+OK	time: 8.202672 seconds 
+
+	AED: 0.127480
+	top80 error: 0.046332
+	CE ( error <=0.1) : 64.884929 percent
+---------------------
+1348/1550 
+	IMG_1348.tif
+	groundTruth: -4.220000
+	our result: -4.167449 
+	error: 0.052551
+OK	time: 8.182103 seconds 
+
+	AED: 0.127424
+	top80 error: 0.046230
+	CE ( error <=0.1) : 64.910979 percent
+---------------------
+1349/1550 
+	IMG_1349.tif
+	groundTruth: 7.480000
+	our result: 7.557444 
+	error: 0.077444
+OK	time: 8.294336 seconds 
+
+	AED: 0.127387
+	top80 error: 0.046253
+	CE ( error <=0.1) : 64.936990 percent
+---------------------
+1350/1550 
+	IMG_1350.tif
+	groundTruth: 9.390000
+	our result: 9.427191 
+	error: 0.037191
+OK	time: 8.334313 seconds 
+
+	AED: 0.127321
+	top80 error: 0.046247
+	CE ( error <=0.1) : 64.962963 percent
+---------------------
+1351/1550 
+	IMG_1351.tif
+	groundTruth: 7.630000
+	our result: 7.577645 
+	error: 0.052355
+OK	time: 8.301113 seconds 
+
+	AED: 0.127265
+	top80 error: 0.046251
+	CE ( error <=0.1) : 64.988897 percent
+---------------------
+1352/1550 
+	IMG_1352.tif
+	groundTruth: 10.830000
+	our result: 10.711004 
+	error: 0.118996
+NOT OK	time: 8.431509 seconds 
+
+	AED: 0.127259
+	top80 error: 0.046305
+	CE ( error <=0.1) : 64.940828 percent
+---------------------
+1353/1550 
+	IMG_1353.tif
+	groundTruth: -12.520000
+	our result: -12.601707 
+	error: 0.081707
+OK	time: 8.449911 seconds 
+
+	AED: 0.127225
+	top80 error: 0.046225
+	CE ( error <=0.1) : 64.966741 percent
+---------------------
+1354/1550 
+	IMG_1354.tif
+	groundTruth: -2.580000
+	our result: -2.671333 
+	error: 0.091333
+OK	time: 8.121944 seconds 
+
+	AED: 0.127199
+	top80 error: 0.046258
+	CE ( error <=0.1) : 64.992614 percent
+---------------------
+1355/1550 
+	IMG_1355.tif
+	groundTruth: 9.150000
+	our result: 9.062622 
+	error: 0.087378
+OK	time: 8.337287 seconds 
+
+	AED: 0.127169
+	top80 error: 0.046289
+	CE ( error <=0.1) : 65.018450 percent
+---------------------
+1356/1550 
+	IMG_1356.tif
+	groundTruth: -14.730000
+	our result: -14.794255 
+	error: 0.064255
+OK	time: 8.060432 seconds 
+
+	AED: 0.127123
+	top80 error: 0.046302
+	CE ( error <=0.1) : 65.044248 percent
+---------------------
+1357/1550 
+	IMG_1357.tif
+	groundTruth: -13.470000
+	our result: -13.518038 
+	error: 0.048038
+OK	time: 8.472804 seconds 
+
+	AED: 0.127065
+	top80 error: 0.046303
+	CE ( error <=0.1) : 65.070007 percent
+---------------------
+1358/1550 
+	IMG_1358.tif
+	groundTruth: -3.780000
+	our result: -3.828763 
+	error: 0.048763
+OK	time: 8.166512 seconds 
+
+	AED: 0.127007
+	top80 error: 0.046200
+	CE ( error <=0.1) : 65.095729 percent
+---------------------
+1359/1550 
+	IMG_1359.tif
+	groundTruth: -7.990000
+	our result: -8.080063 
+	error: 0.090063
+OK	time: 8.293005 seconds 
+
+	AED: 0.126980
+	top80 error: 0.046232
+	CE ( error <=0.1) : 65.121413 percent
+---------------------
+1360/1550 
+	IMG_1360.tif
+	groundTruth: 6.360000
+	our result: 6.230681 
+	error: 0.129319
+NOT OK	time: 8.253573 seconds 
+
+	AED: 0.126982
+	top80 error: 0.046293
+	CE ( error <=0.1) : 65.073529 percent
+---------------------
+1361/1550 
+	IMG_1361.tif
+	groundTruth: -14.000000
+	our result: -13.791496 
+	error: 0.208504
+NOT OK	time: 8.300465 seconds 
+
+	AED: 0.127041
+	top80 error: 0.046364
+	CE ( error <=0.1) : 65.025716 percent
+---------------------
+1362/1550 
+	IMG_1362.tif
+	groundTruth: -0.300000
+	our result: -0.052022 
+	error: 0.247978
+NOT OK	time: 7.703330 seconds 
+
+	AED: 0.127130
+	top80 error: 0.046436
+	CE ( error <=0.1) : 64.977974 percent
+---------------------
+1363/1550 
+	IMG_1363.tif
+	groundTruth: 10.990000
+	our result: 11.172021 
+	error: 0.182021
+NOT OK	time: 8.207126 seconds 
+
+	AED: 0.127171
+	top80 error: 0.046401
+	CE ( error <=0.1) : 64.930301 percent
+---------------------
+1364/1550 
+	IMG_1364.tif
+	groundTruth: -11.910000
+	our result: -11.739993 
+	error: 0.170007
+NOT OK	time: 8.233104 seconds 
+
+	AED: 0.127202
+	top80 error: 0.046473
+	CE ( error <=0.1) : 64.882698 percent
+---------------------
+1365/1550 
+	IMG_1365.tif
+	groundTruth: 14.320000
+	our result: 14.478520 
+	error: 0.158520
+NOT OK	time: 7.883447 seconds 
+
+	AED: 0.127225
+	top80 error: 0.046545
+	CE ( error <=0.1) : 64.835165 percent
+---------------------
+1366/1550 
+	IMG_1366.tif
+	groundTruth: 1.400000
+	our result: 1.593428 
+	error: 0.193428
+NOT OK	time: 7.756749 seconds 
+
+	AED: 0.127273
+	top80 error: 0.046617
+	CE ( error <=0.1) : 64.787701 percent
+---------------------
+1367/1550 
+	IMG_1367.tif
+	groundTruth: 4.170000
+	our result: 4.354805 
+	error: 0.184805
+NOT OK	time: 7.889596 seconds 
+
+	AED: 0.127315
+	top80 error: 0.046689
+	CE ( error <=0.1) : 64.740307 percent
+---------------------
+1368/1550 
+	IMG_1368.tif
+	groundTruth: -5.430000
+	our result: -5.265271 
+	error: 0.164729
+NOT OK	time: 7.941468 seconds 
+
+	AED: 0.127343
+	top80 error: 0.046654
+	CE ( error <=0.1) : 64.692982 percent
+---------------------
+1369/1550 
+	IMG_1369.tif
+	groundTruth: -11.030000
+	our result: -10.882679 
+	error: 0.147321
+NOT OK	time: 8.188640 seconds 
+
+	AED: 0.127357
+	top80 error: 0.046727
+	CE ( error <=0.1) : 64.645727 percent
+---------------------
+1370/1550 
+	IMG_1370.tif
+	groundTruth: -1.350000
+	our result: -1.130864 
+	error: 0.219136
+NOT OK	time: 7.750362 seconds 
+
+	AED: 0.127424
+	top80 error: 0.046799
+	CE ( error <=0.1) : 64.598540 percent
+---------------------
+1371/1550 
+	IMG_1371.tif
+	groundTruth: 9.360000
+	our result: 9.326854 
+	error: 0.033146
+OK	time: 8.034721 seconds 
+
+	AED: 0.127356
+	top80 error: 0.046789
+	CE ( error <=0.1) : 64.624362 percent
+---------------------
+1372/1550 
+	IMG_1372.tif
+	groundTruth: -5.060000
+	our result: -5.110600 
+	error: 0.050600
+OK	time: 7.842236 seconds 
+
+	AED: 0.127300
+	top80 error: 0.046792
+	CE ( error <=0.1) : 64.650146 percent
+---------------------
+1373/1550 
+	IMG_1373.tif
+	groundTruth: -8.560000
+	our result: -8.560814 
+	error: 0.000814
+OK	time: 7.999979 seconds 
+
+	AED: 0.127208
+	top80 error: 0.046652
+	CE ( error <=0.1) : 64.675892 percent
+---------------------
+1374/1550 
+	IMG_1374.tif
+	groundTruth: -12.850000
+	our result: -12.899154 
+	error: 0.049154
+OK	time: 8.163925 seconds 
+
+	AED: 0.127151
+	top80 error: 0.046654
+	CE ( error <=0.1) : 64.701601 percent
+---------------------
+1375/1550 
+	IMG_1375.tif
+	groundTruth: 11.300000
+	our result: 11.241546 
+	error: 0.058454
+OK	time: 8.098128 seconds 
+
+	AED: 0.127101
+	top80 error: 0.046663
+	CE ( error <=0.1) : 64.727273 percent
+---------------------
+1376/1550 
+	IMG_1376.tif
+	groundTruth: 1.800000
+	our result: 1.741378 
+	error: 0.058622
+OK	time: 7.716142 seconds 
+
+	AED: 0.127051
+	top80 error: 0.046671
+	CE ( error <=0.1) : 64.752907 percent
+---------------------
+1377/1550 
+	IMG_1377.tif
+	groundTruth: 7.300000
+	our result: 7.242402 
+	error: 0.057598
+OK	time: 7.943087 seconds 
+
+	AED: 0.127001
+	top80 error: 0.046679
+	CE ( error <=0.1) : 64.778504 percent
+---------------------
+1378/1550 
+	IMG_1378.tif
+	groundTruth: -6.000000
+	our result: -6.059435 
+	error: 0.059435
+OK	time: 7.893904 seconds 
+
+	AED: 0.126952
+	top80 error: 0.046583
+	CE ( error <=0.1) : 64.804064 percent
+---------------------
+1379/1550 
+	IMG_1379.tif
+	groundTruth: -1.960000
+	our result: -2.005000 
+	error: 0.045000
+OK	time: 7.715770 seconds 
+
+	AED: 0.126892
+	top80 error: 0.046582
+	CE ( error <=0.1) : 64.829587 percent
+---------------------
+1380/1550 
+	IMG_1380.tif
+	groundTruth: 4.780000
+	our result: 4.748536 
+	error: 0.031464
+OK	time: 7.845019 seconds 
+
+	AED: 0.126823
+	top80 error: 0.046571
+	CE ( error <=0.1) : 64.855072 percent
+---------------------
+1381/1550 
+	IMG_1381.tif
+	groundTruth: 6.220000
+	our result: 6.382155 
+	error: 0.162155
+NOT OK	time: 8.103933 seconds 
+
+	AED: 0.126849
+	top80 error: 0.046643
+	CE ( error <=0.1) : 64.808110 percent
+---------------------
+1382/1550 
+	IMG_1382.tif
+	groundTruth: 8.330000
+	our result: 8.319350 
+	error: 0.010650
+OK	time: 8.171314 seconds 
+
+	AED: 0.126764
+	top80 error: 0.046616
+	CE ( error <=0.1) : 64.833575 percent
+---------------------
+1383/1550 
+	IMG_1383.tif
+	groundTruth: -1.170000
+	our result: -1.120682 
+	error: 0.049318
+OK	time: 7.863595 seconds 
+
+	AED: 0.126708
+	top80 error: 0.046513
+	CE ( error <=0.1) : 64.859002 percent
+---------------------
+1384/1550 
+	IMG_1384.tif
+	groundTruth: 12.310000
+	our result: 12.368449 
+	error: 0.058449
+OK	time: 8.315787 seconds 
+
+	AED: 0.126659
+	top80 error: 0.046522
+	CE ( error <=0.1) : 64.884393 percent
+---------------------
+1385/1550 
+	IMG_1385.tif
+	groundTruth: -12.320000
+	our result: -12.267521 
+	error: 0.052479
+OK	time: 8.323239 seconds 
+
+	AED: 0.126606
+	top80 error: 0.046526
+	CE ( error <=0.1) : 64.909747 percent
+---------------------
+1386/1550 
+	IMG_1386.tif
+	groundTruth: 9.550000
+	our result: 9.606706 
+	error: 0.056706
+OK	time: 8.212454 seconds 
+
+	AED: 0.126555
+	top80 error: 0.046533
+	CE ( error <=0.1) : 64.935065 percent
+---------------------
+1387/1550 
+	IMG_1387.tif
+	groundTruth: 4.110000
+	our result: 4.143032 
+	error: 0.033032
+OK	time: 8.015971 seconds 
+
+	AED: 0.126488
+	top80 error: 0.046524
+	CE ( error <=0.1) : 64.960346 percent
+---------------------
+1388/1550 
+	IMG_1388.tif
+	groundTruth: -5.460000
+	our result: -5.347911 
+	error: 0.112089
+NOT OK	time: 8.066707 seconds 
+
+	AED: 0.126477
+	top80 error: 0.046466
+	CE ( error <=0.1) : 64.913545 percent
+---------------------
+1389/1550 
+	IMG_1389.tif
+	groundTruth: 10.700000
+	our result: 10.758718 
+	error: 0.058718
+OK	time: 8.266863 seconds 
+
+	AED: 0.126429
+	top80 error: 0.046475
+	CE ( error <=0.1) : 64.938805 percent
+---------------------
+1390/1550 
+	IMG_1390.tif
+	groundTruth: 2.150000
+	our result: 2.234897 
+	error: 0.084897
+OK	time: 7.931381 seconds 
+
+	AED: 0.126399
+	top80 error: 0.046503
+	CE ( error <=0.1) : 64.964029 percent
+---------------------
+1391/1550 
+	IMG_1391.tif
+	groundTruth: -13.370000
+	our result: -13.313413 
+	error: 0.056587
+OK	time: 8.599723 seconds 
+
+	AED: 0.126348
+	top80 error: 0.046510
+	CE ( error <=0.1) : 64.989216 percent
+---------------------
+1392/1550 
+	IMG_1392.tif
+	groundTruth: -14.380000
+	our result: -14.318280 
+	error: 0.061720
+OK	time: 8.151153 seconds 
+
+	AED: 0.126302
+	top80 error: 0.046521
+	CE ( error <=0.1) : 65.014368 percent
+---------------------
+1393/1550 
+	IMG_1393.tif
+	groundTruth: 9.480000
+	our result: 9.592471 
+	error: 0.112471
+NOT OK	time: 8.555180 seconds 
+
+	AED: 0.126292
+	top80 error: 0.046464
+	CE ( error <=0.1) : 64.967696 percent
+---------------------
+1394/1550 
+	IMG_1394.tif
+	groundTruth: 6.500000
+	our result: 6.600322 
+	error: 0.100322
+NOT OK	time: 8.498918 seconds 
+
+	AED: 0.126274
+	top80 error: 0.046503
+	CE ( error <=0.1) : 64.921090 percent
+---------------------
+1395/1550 
+	IMG_1395.tif
+	groundTruth: -0.790000
+	our result: -0.753017 
+	error: 0.036983
+OK	time: 8.416640 seconds 
+
+	AED: 0.126209
+	top80 error: 0.046496
+	CE ( error <=0.1) : 64.946237 percent
+---------------------
+1396/1550 
+	IMG_1396.tif
+	groundTruth: -10.510000
+	our result: -10.425388 
+	error: 0.084612
+OK	time: 8.559614 seconds 
+
+	AED: 0.126180
+	top80 error: 0.046524
+	CE ( error <=0.1) : 64.971347 percent
+---------------------
+1397/1550 
+	IMG_1397.tif
+	groundTruth: 12.780000
+	our result: 12.896221 
+	error: 0.116221
+NOT OK	time: 8.598076 seconds 
+
+	AED: 0.126173
+	top80 error: 0.046573
+	CE ( error <=0.1) : 64.924839 percent
+---------------------
+1398/1550 
+	IMG_1398.tif
+	groundTruth: 14.410000
+	our result: 14.495688 
+	error: 0.085688
+OK	time: 8.156799 seconds 
+
+	AED: 0.126144
+	top80 error: 0.046498
+	CE ( error <=0.1) : 64.949928 percent
+---------------------
+1399/1550 
+	IMG_1399.tif
+	groundTruth: -8.980000
+	our result: -8.893024 
+	error: 0.086976
+OK	time: 8.542041 seconds 
+
+	AED: 0.126116
+	top80 error: 0.046527
+	CE ( error <=0.1) : 64.974982 percent
+---------------------
+1400/1550 
+	IMG_1400.tif
+	groundTruth: 5.700000
+	our result: 5.785794 
+	error: 0.085794
+OK	time: 8.497853 seconds 
+
+	AED: 0.126087
+	top80 error: 0.046555
+	CE ( error <=0.1) : 65.000000 percent
+---------------------
+1401/1550 
+	IMG_1401.tif
+	groundTruth: 8.140000
+	our result: 8.260435 
+	error: 0.120435
+NOT OK	time: 8.082861 seconds 
+
+	AED: 0.126083
+	top80 error: 0.046608
+	CE ( error <=0.1) : 64.953605 percent
+---------------------
+1402/1550 
+	IMG_1402.tif
+	groundTruth: 11.510000
+	our result: 11.622326 
+	error: 0.112326
+NOT OK	time: 8.201397 seconds 
+
+	AED: 0.126073
+	top80 error: 0.046655
+	CE ( error <=0.1) : 64.907275 percent
+---------------------
+1403/1550 
+	IMG_1403.tif
+	groundTruth: -10.710000
+	our result: -10.584539 
+	error: 0.125461
+NOT OK	time: 8.177162 seconds 
+
+	AED: 0.126073
+	top80 error: 0.046608
+	CE ( error <=0.1) : 64.861012 percent
+---------------------
+1404/1550 
+	IMG_1404.tif
+	groundTruth: 5.730000
+	our result: 5.882424 
+	error: 0.152424
+NOT OK	time: 7.970612 seconds 
+
+	AED: 0.126091
+	top80 error: 0.046677
+	CE ( error <=0.1) : 64.814815 percent
+---------------------
+1405/1550 
+	IMG_1405.tif
+	groundTruth: 14.150000
+	our result: 14.203199 
+	error: 0.053199
+OK	time: 7.852068 seconds 
+
+	AED: 0.126039
+	top80 error: 0.046682
+	CE ( error <=0.1) : 64.839858 percent
+---------------------
+1406/1550 
+	IMG_1406.tif
+	groundTruth: -7.920000
+	our result: -7.784246 
+	error: 0.135754
+NOT OK	time: 8.058058 seconds 
+
+	AED: 0.126046
+	top80 error: 0.046745
+	CE ( error <=0.1) : 64.793741 percent
+---------------------
+1407/1550 
+	IMG_1407.tif
+	groundTruth: -9.830000
+	our result: -9.732316 
+	error: 0.097684
+OK	time: 8.138743 seconds 
+
+	AED: 0.126026
+	top80 error: 0.046782
+	CE ( error <=0.1) : 64.818763 percent
+---------------------
+1408/1550 
+	IMG_1408.tif
+	groundTruth: 2.540000
+	our result: 2.682962 
+	error: 0.142962
+NOT OK	time: 7.813701 seconds 
+
+	AED: 0.126038
+	top80 error: 0.046748
+	CE ( error <=0.1) : 64.772727 percent
+---------------------
+1409/1550 
+	IMG_1409.tif
+	groundTruth: -0.010000
+	our result: 0.105500 
+	error: 0.115500
+NOT OK	time: 7.719305 seconds 
+
+	AED: 0.126031
+	top80 error: 0.046797
+	CE ( error <=0.1) : 64.726757 percent
+---------------------
+1410/1550 
+	IMG_1410.tif
+	groundTruth: 7.010000
+	our result: 7.098077 
+	error: 0.088077
+OK	time: 8.030443 seconds 
+
+	AED: 0.126004
+	top80 error: 0.046826
+	CE ( error <=0.1) : 64.751773 percent
+---------------------
+1411/1550 
+	IMG_1411.tif
+	groundTruth: 7.840000
+	our result: 7.998870 
+	error: 0.158870
+NOT OK	time: 8.190945 seconds 
+
+	AED: 0.126027
+	top80 error: 0.046895
+	CE ( error <=0.1) : 64.705882 percent
+---------------------
+1412/1550 
+	IMG_1412.tif
+	groundTruth: 0.080000
+	our result: 0.158387 
+	error: 0.078387
+OK	time: 7.893602 seconds 
+
+	AED: 0.125993
+	top80 error: 0.046917
+	CE ( error <=0.1) : 64.730878 percent
+---------------------
+1413/1550 
+	IMG_1413.tif
+	groundTruth: -11.250000
+	our result: -11.122759 
+	error: 0.127241
+NOT OK	time: 8.294520 seconds 
+
+	AED: 0.125994
+	top80 error: 0.046872
+	CE ( error <=0.1) : 64.685067 percent
+---------------------
+1414/1550 
+	IMG_1414.tif
+	groundTruth: -7.260000
+	our result: -7.123023 
+	error: 0.136977
+NOT OK	time: 8.160543 seconds 
+
+	AED: 0.126002
+	top80 error: 0.046936
+	CE ( error <=0.1) : 64.639321 percent
+---------------------
+1415/1550 
+	IMG_1415.tif
+	groundTruth: -1.340000
+	our result: -1.189188 
+	error: 0.150812
+NOT OK	time: 7.936095 seconds 
+
+	AED: 0.126020
+	top80 error: 0.047004
+	CE ( error <=0.1) : 64.593640 percent
+---------------------
+1416/1550 
+	IMG_1416.tif
+	groundTruth: -12.200000
+	our result: -12.030537 
+	error: 0.169463
+NOT OK	time: 8.315613 seconds 
+
+	AED: 0.126050
+	top80 error: 0.047073
+	CE ( error <=0.1) : 64.548023 percent
+---------------------
+1417/1550 
+	IMG_1417.tif
+	groundTruth: 10.070000
+	our result: 10.243104 
+	error: 0.173104
+NOT OK	time: 8.253801 seconds 
+
+	AED: 0.126083
+	top80 error: 0.047142
+	CE ( error <=0.1) : 64.502470 percent
+---------------------
+1418/1550 
+	IMG_1418.tif
+	groundTruth: 14.900000
+	our result: 14.946125 
+	error: 0.046125
+OK	time: 7.958365 seconds 
+
+	AED: 0.126027
+	top80 error: 0.047039
+	CE ( error <=0.1) : 64.527504 percent
+---------------------
+1419/1550 
+	IMG_1419.tif
+	groundTruth: -13.190000
+	our result: -13.098341 
+	error: 0.091659
+OK	time: 8.350851 seconds 
+
+	AED: 0.126003
+	top80 error: 0.047071
+	CE ( error <=0.1) : 64.552502 percent
+---------------------
+1420/1550 
+	IMG_1420.tif
+	groundTruth: -2.970000
+	our result: -2.843435 
+	error: 0.126565
+NOT OK	time: 8.013772 seconds 
+
+	AED: 0.126003
+	top80 error: 0.047127
+	CE ( error <=0.1) : 64.507042 percent
+---------------------
+1421/1550 
+	IMG_1421.tif
+	groundTruth: 6.090000
+	our result: 6.272694 
+	error: 0.182694
+NOT OK	time: 8.302272 seconds 
+
+	AED: 0.126043
+	top80 error: 0.047195
+	CE ( error <=0.1) : 64.461647 percent
+---------------------
+1422/1550 
+	IMG_1422.tif
+	groundTruth: -11.620000
+	our result: -11.439613 
+	error: 0.180387
+NOT OK	time: 8.496008 seconds 
+
+	AED: 0.126081
+	top80 error: 0.047264
+	CE ( error <=0.1) : 64.416315 percent
+---------------------
+1423/1550 
+	IMG_1423.tif
+	groundTruth: -14.320000
+	our result: -14.128237 
+	error: 0.191763
+NOT OK	time: 8.050585 seconds 
+
+	AED: 0.126127
+	top80 error: 0.047231
+	CE ( error <=0.1) : 64.371047 percent
+---------------------
+1424/1550 
+	IMG_1424.tif
+	groundTruth: -0.760000
+	our result: -0.606288 
+	error: 0.153712
+NOT OK	time: 8.147696 seconds 
+
+	AED: 0.126147
+	top80 error: 0.047300
+	CE ( error <=0.1) : 64.325843 percent
+---------------------
+1425/1550 
+	IMG_1425.tif
+	groundTruth: 5.020000
+	our result: 5.203322 
+	error: 0.183322
+NOT OK	time: 8.249572 seconds 
+
+	AED: 0.126187
+	top80 error: 0.047369
+	CE ( error <=0.1) : 64.280702 percent
+---------------------
+1426/1550 
+	IMG_1426.tif
+	groundTruth: 1.500000
+	our result: 1.670468 
+	error: 0.170468
+NOT OK	time: 8.155099 seconds 
+
+	AED: 0.126218
+	top80 error: 0.047439
+	CE ( error <=0.1) : 64.235624 percent
+---------------------
+1427/1550 
+	IMG_1427.tif
+	groundTruth: 11.140000
+	our result: 11.322210 
+	error: 0.182210
+NOT OK	time: 8.436840 seconds 
+
+	AED: 0.126257
+	top80 error: 0.047508
+	CE ( error <=0.1) : 64.190610 percent
+---------------------
+1428/1550 
+	IMG_1428.tif
+	groundTruth: 9.600000
+	our result: 9.748363 
+	error: 0.148363
+NOT OK	time: 8.385064 seconds 
+
+	AED: 0.126273
+	top80 error: 0.047475
+	CE ( error <=0.1) : 64.145658 percent
+---------------------
+1429/1550 
+	IMG_1429.tif
+	groundTruth: -9.630000
+	our result: -9.483866 
+	error: 0.146134
+NOT OK	time: 8.373761 seconds 
+
+	AED: 0.126287
+	top80 error: 0.047544
+	CE ( error <=0.1) : 64.100770 percent
+---------------------
+1430/1550 
+	IMG_1430.tif
+	groundTruth: 0.260000
+	our result: 0.448584 
+	error: 0.188584
+NOT OK	time: 8.132278 seconds 
+
+	AED: 0.126330
+	top80 error: 0.047614
+	CE ( error <=0.1) : 64.055944 percent
+---------------------
+1431/1550 
+	IMG_1431.tif
+	groundTruth: -3.730000
+	our result: -3.745695 
+	error: 0.015695
+OK	time: 8.302629 seconds 
+
+	AED: 0.126253
+	top80 error: 0.047591
+	CE ( error <=0.1) : 64.081062 percent
+---------------------
+1432/1550 
+	IMG_1432.tif
+	groundTruth: 1.740000
+	our result: 1.746714 
+	error: 0.006714
+OK	time: 8.252728 seconds 
+
+	AED: 0.126169
+	top80 error: 0.047563
+	CE ( error <=0.1) : 64.106145 percent
+---------------------
+1433/1550 
+	IMG_1433.tif
+	groundTruth: 14.580000
+	our result: 14.611197 
+	error: 0.031197
+OK	time: 8.111966 seconds 
+
+	AED: 0.126103
+	top80 error: 0.047449
+	CE ( error <=0.1) : 64.131193 percent
+---------------------
+1434/1550 
+	IMG_1434.tif
+	groundTruth: -14.640000
+	our result: -14.701779 
+	error: 0.061779
+OK	time: 8.109571 seconds 
+
+	AED: 0.126058
+	top80 error: 0.047459
+	CE ( error <=0.1) : 64.156206 percent
+---------------------
+1435/1550 
+	IMG_1435.tif
+	groundTruth: 7.520000
+	our result: 7.506634 
+	error: 0.013366
+OK	time: 8.423099 seconds 
+
+	AED: 0.125980
+	top80 error: 0.047435
+	CE ( error <=0.1) : 64.181185 percent
+---------------------
+1436/1550 
+	IMG_1436.tif
+	groundTruth: -5.230000
+	our result: -5.239734 
+	error: 0.009734
+OK	time: 8.348974 seconds 
+
+	AED: 0.125899
+	top80 error: 0.047409
+	CE ( error <=0.1) : 64.206128 percent
+---------------------
+1437/1550 
+	IMG_1437.tif
+	groundTruth: 2.820000
+	our result: 2.827816 
+	error: 0.007816
+OK	time: 8.285503 seconds 
+
+	AED: 0.125817
+	top80 error: 0.047381
+	CE ( error <=0.1) : 64.231037 percent
+---------------------
+1438/1550 
+	IMG_1438.tif
+	groundTruth: -11.320000
+	our result: -11.337138 
+	error: 0.017138
+OK	time: 8.493724 seconds 
+
+	AED: 0.125741
+	top80 error: 0.047258
+	CE ( error <=0.1) : 64.255911 percent
+---------------------
+1439/1550 
+	IMG_1439.tif
+	groundTruth: -0.770000
+	our result: -0.742671 
+	error: 0.027329
+OK	time: 8.226944 seconds 
+
+	AED: 0.125673
+	top80 error: 0.047244
+	CE ( error <=0.1) : 64.280751 percent
+---------------------
+1440/1550 
+	IMG_1440.tif
+	groundTruth: -8.970000
+	our result: -8.993789 
+	error: 0.023789
+OK	time: 8.465253 seconds 
+
+	AED: 0.125602
+	top80 error: 0.047228
+	CE ( error <=0.1) : 64.305556 percent
+---------------------
+1441/1550 
+	IMG_1441.tif
+	groundTruth: -7.930000
+	our result: -7.876905 
+	error: 0.053095
+OK	time: 8.469056 seconds 
+
+	AED: 0.125552
+	top80 error: 0.047232
+	CE ( error <=0.1) : 64.330326 percent
+---------------------
+1442/1550 
+	IMG_1442.tif
+	groundTruth: -0.390000
+	our result: -0.314442 
+	error: 0.075558
+OK	time: 8.264264 seconds 
+
+	AED: 0.125517
+	top80 error: 0.047252
+	CE ( error <=0.1) : 64.355062 percent
+---------------------
+1443/1550 
+	IMG_1443.tif
+	groundTruth: 3.770000
+	our result: 3.820393 
+	error: 0.050393
+OK	time: 8.372425 seconds 
+
+	AED: 0.125465
+	top80 error: 0.047153
+	CE ( error <=0.1) : 64.379764 percent
+---------------------
+1444/1550 
+	IMG_1444.tif
+	groundTruth: -11.190000
+	our result: -11.143714 
+	error: 0.046286
+OK	time: 8.530228 seconds 
+
+	AED: 0.125410
+	top80 error: 0.047152
+	CE ( error <=0.1) : 64.404432 percent
+---------------------
+1445/1550 
+	IMG_1445.tif
+	groundTruth: -3.580000
+	our result: -3.532273 
+	error: 0.047727
+OK	time: 8.371475 seconds 
+
+	AED: 0.125356
+	top80 error: 0.047152
+	CE ( error <=0.1) : 64.429066 percent
+---------------------
+1446/1550 
+	IMG_1446.tif
+	groundTruth: 7.050000
+	our result: 7.104634 
+	error: 0.054634
+OK	time: 8.453475 seconds 
+
+	AED: 0.125307
+	top80 error: 0.047158
+	CE ( error <=0.1) : 64.453665 percent
+---------------------
+1447/1550 
+	IMG_1447.tif
+	groundTruth: 9.140000
+	our result: 9.189616 
+	error: 0.049616
+OK	time: 8.493791 seconds 
+
+	AED: 0.125255
+	top80 error: 0.047159
+	CE ( error <=0.1) : 64.478231 percent
+---------------------
+1448/1550 
+	IMG_1448.tif
+	groundTruth: 1.340000
+	our result: 1.386034 
+	error: 0.046034
+OK	time: 8.288785 seconds 
+
+	AED: 0.125200
+	top80 error: 0.047058
+	CE ( error <=0.1) : 64.502762 percent
+---------------------
+1449/1550 
+	IMG_1449.tif
+	groundTruth: -9.090000
+	our result: -9.043479 
+	error: 0.046521
+OK	time: 8.488250 seconds 
+
+	AED: 0.125146
+	top80 error: 0.047057
+	CE ( error <=0.1) : 64.527260 percent
+---------------------
+1450/1550 
+	IMG_1450.tif
+	groundTruth: 10.190000
+	our result: 10.249397 
+	error: 0.059397
+OK	time: 8.513366 seconds 
+
+	AED: 0.125101
+	top80 error: 0.047066
+	CE ( error <=0.1) : 64.551724 percent
+---------------------
+1451/1550 
+	IMG_1451.tif
+	groundTruth: 8.900000
+	our result: 8.961531 
+	error: 0.061531
+OK	time: 8.361584 seconds 
+
+	AED: 0.125057
+	top80 error: 0.047076
+	CE ( error <=0.1) : 64.576154 percent
+---------------------
+1452/1550 
+	IMG_1452.tif
+	groundTruth: 13.660000
+	our result: 13.693236 
+	error: 0.033236
+OK	time: 8.503076 seconds 
+
+	AED: 0.124994
+	top80 error: 0.047066
+	CE ( error <=0.1) : 64.600551 percent
+---------------------
+1453/1550 
+	IMG_1453.tif
+	groundTruth: -10.730000
+	our result: -10.655021 
+	error: 0.074979
+OK	time: 8.424232 seconds 
+
+	AED: 0.124959
+	top80 error: 0.046985
+	CE ( error <=0.1) : 64.624914 percent
+---------------------
+1454/1550 
+	IMG_1454.tif
+	groundTruth: -3.260000
+	our result: -3.206355 
+	error: 0.053645
+OK	time: 8.218193 seconds 
+
+	AED: 0.124910
+	top80 error: 0.046989
+	CE ( error <=0.1) : 64.649243 percent
+---------------------
+1455/1550 
+	IMG_1455.tif
+	groundTruth: -6.260000
+	our result: -6.190053 
+	error: 0.069947
+OK	time: 8.289257 seconds 
+
+	AED: 0.124872
+	top80 error: 0.047005
+	CE ( error <=0.1) : 64.673540 percent
+---------------------
+1456/1550 
+	IMG_1456.tif
+	groundTruth: 12.380000
+	our result: 12.439094 
+	error: 0.059094
+OK	time: 8.452028 seconds 
+
+	AED: 0.124827
+	top80 error: 0.047013
+	CE ( error <=0.1) : 64.697802 percent
+---------------------
+1457/1550 
+	IMG_1457.tif
+	groundTruth: -1.680000
+	our result: -1.597053 
+	error: 0.082947
+OK	time: 8.166949 seconds 
+
+	AED: 0.124798
+	top80 error: 0.047038
+	CE ( error <=0.1) : 64.722032 percent
+---------------------
+1458/1550 
+	IMG_1458.tif
+	groundTruth: -0.140000
+	our result: -0.036667 
+	error: 0.103333
+NOT OK	time: 8.109775 seconds 
+
+	AED: 0.124784
+	top80 error: 0.046977
+	CE ( error <=0.1) : 64.677641 percent
+---------------------
+1459/1550 
+	IMG_1459.tif
+	groundTruth: -14.420000
+	our result: -14.331049 
+	error: 0.088951
+OK	time: 8.056128 seconds 
+
+	AED: 0.124759
+	top80 error: 0.047006
+	CE ( error <=0.1) : 64.701851 percent
+---------------------
+1460/1550 
+	IMG_1460.tif
+	groundTruth: 4.210000
+	our result: 4.319350 
+	error: 0.109350
+NOT OK	time: 8.243570 seconds 
+
+	AED: 0.124749
+	top80 error: 0.047048
+	CE ( error <=0.1) : 64.657534 percent
+---------------------
+1461/1550 
+	IMG_1461.tif
+	groundTruth: 2.170000
+	our result: 2.244387 
+	error: 0.074387
+OK	time: 8.196082 seconds 
+
+	AED: 0.124714
+	top80 error: 0.047067
+	CE ( error <=0.1) : 64.681725 percent
+---------------------
+1462/1550 
+	IMG_1462.tif
+	groundTruth: 5.940000
+	our result: 6.009399 
+	error: 0.069399
+OK	time: 8.290998 seconds 
+
+	AED: 0.124676
+	top80 error: 0.047082
+	CE ( error <=0.1) : 64.705882 percent
+---------------------
+1463/1550 
+	IMG_1463.tif
+	groundTruth: 0.500000
+	our result: 0.580487 
+	error: 0.080487
+OK	time: 8.146597 seconds 
+
+	AED: 0.124646
+	top80 error: 0.047006
+	CE ( error <=0.1) : 64.730007 percent
+---------------------
+1464/1550 
+	IMG_1464.tif
+	groundTruth: 12.900000
+	our result: 12.964463 
+	error: 0.064463
+OK	time: 8.485054 seconds 
+
+	AED: 0.124605
+	top80 error: 0.047018
+	CE ( error <=0.1) : 64.754098 percent
+---------------------
+1465/1550 
+	IMG_1465.tif
+	groundTruth: 8.860000
+	our result: 8.949108 
+	error: 0.089108
+OK	time: 8.358227 seconds 
+
+	AED: 0.124581
+	top80 error: 0.047047
+	CE ( error <=0.1) : 64.778157 percent
+---------------------
+1466/1550 
+	IMG_1466.tif
+	groundTruth: -6.380000
+	our result: -6.298231 
+	error: 0.081769
+OK	time: 8.307945 seconds 
+
+	AED: 0.124552
+	top80 error: 0.047070
+	CE ( error <=0.1) : 64.802183 percent
+---------------------
+1467/1550 
+	IMG_1467.tif
+	groundTruth: 14.280000
+	our result: 14.363999 
+	error: 0.083999
+OK	time: 8.069144 seconds 
+
+	AED: 0.124524
+	top80 error: 0.047096
+	CE ( error <=0.1) : 64.826176 percent
+---------------------
+1468/1550 
+	IMG_1468.tif
+	groundTruth: -11.650000
+	our result: -11.549868 
+	error: 0.100132
+NOT OK	time: 8.435111 seconds 
+
+	AED: 0.124507
+	top80 error: 0.047033
+	CE ( error <=0.1) : 64.782016 percent
+---------------------
+1469/1550 
+	IMG_1469.tif
+	groundTruth: -3.360000
+	our result: -3.276309 
+	error: 0.083691
+OK	time: 8.226172 seconds 
+
+	AED: 0.124480
+	top80 error: 0.047058
+	CE ( error <=0.1) : 64.805990 percent
+---------------------
+1470/1550 
+	IMG_1470.tif
+	groundTruth: 5.010000
+	our result: 5.086347 
+	error: 0.076347
+OK	time: 8.265911 seconds 
+
+	AED: 0.124447
+	top80 error: 0.047078
+	CE ( error <=0.1) : 64.829932 percent
+---------------------
+1471/1550 
+	IMG_1471.tif
+	groundTruth: -6.760000
+	our result: -6.896221 
+	error: 0.136221
+NOT OK	time: 8.061189 seconds 
+
+	AED: 0.124455
+	top80 error: 0.047139
+	CE ( error <=0.1) : 64.785860 percent
+---------------------
+1472/1550 
+	IMG_1472.tif
+	groundTruth: -8.840000
+	our result: -8.992404 
+	error: 0.152404
+NOT OK	time: 8.155249 seconds 
+
+	AED: 0.124474
+	top80 error: 0.047205
+	CE ( error <=0.1) : 64.741848 percent
+---------------------
+1473/1550 
+	IMG_1473.tif
+	groundTruth: -14.290000
+	our result: -14.452555 
+	error: 0.162555
+NOT OK	time: 7.879780 seconds 
+
+	AED: 0.124500
+	top80 error: 0.047173
+	CE ( error <=0.1) : 64.697895 percent
+---------------------
+1474/1550 
+	IMG_1474.tif
+	groundTruth: -10.580000
+	our result: -10.762934 
+	error: 0.182934
+NOT OK	time: 8.232160 seconds 
+
+	AED: 0.124539
+	top80 error: 0.047239
+	CE ( error <=0.1) : 64.654003 percent
+---------------------
+1475/1550 
+	IMG_1475.tif
+	groundTruth: 2.020000
+	our result: 1.868271 
+	error: 0.151729
+NOT OK	time: 7.850134 seconds 
+
+	AED: 0.124558
+	top80 error: 0.047306
+	CE ( error <=0.1) : 64.610169 percent
+---------------------
+1476/1550 
+	IMG_1476.tif
+	groundTruth: 8.980000
+	our result: 8.834965 
+	error: 0.145035
+NOT OK	time: 8.149962 seconds 
+
+	AED: 0.124572
+	top80 error: 0.047372
+	CE ( error <=0.1) : 64.566396 percent
+---------------------
+1477/1550 
+	IMG_1477.tif
+	groundTruth: 14.790000
+	our result: 14.576862 
+	error: 0.213138
+NOT OK	time: 7.902123 seconds 
+
+	AED: 0.124632
+	top80 error: 0.047439
+	CE ( error <=0.1) : 64.522681 percent
+---------------------
+1478/1550 
+	IMG_1478.tif
+	groundTruth: -5.280000
+	our result: -5.411408 
+	error: 0.131408
+NOT OK	time: 7.997448 seconds 
+
+	AED: 0.124636
+	top80 error: 0.047397
+	CE ( error <=0.1) : 64.479026 percent
+---------------------
+1479/1550 
+	IMG_1479.tif
+	groundTruth: 5.500000
+	our result: 5.307447 
+	error: 0.192553
+NOT OK	time: 8.011800 seconds 
+
+	AED: 0.124682
+	top80 error: 0.047464
+	CE ( error <=0.1) : 64.435429 percent
+---------------------
+1480/1550 
+	IMG_1480.tif
+	groundTruth: -2.930000
+	our result: -3.101966 
+	error: 0.171966
+NOT OK	time: 7.893067 seconds 
+
+	AED: 0.124714
+	top80 error: 0.047530
+	CE ( error <=0.1) : 64.391892 percent
+---------------------
+1481/1550 
+	IMG_1481.tif
+	groundTruth: 11.510000
+	our result: 11.349296 
+	error: 0.160704
+NOT OK	time: 8.388234 seconds 
+
+	AED: 0.124738
+	top80 error: 0.047597
+	CE ( error <=0.1) : 64.348413 percent
+---------------------
+1482/1550 
+	IMG_1482.tif
+	groundTruth: -14.990000
+	our result: -14.999440 
+	error: 0.009440
+OK	time: 8.040169 seconds 
+
+	AED: 0.124661
+	top80 error: 0.047571
+	CE ( error <=0.1) : 64.372470 percent
+---------------------
+1483/1550 
+	IMG_1483.tif
+	groundTruth: -1.510000
+	our result: -1.626643 
+	error: 0.116643
+NOT OK	time: 8.058733 seconds 
+
+	AED: 0.124655
+	top80 error: 0.047519
+	CE ( error <=0.1) : 64.329063 percent
+---------------------
+1484/1550 
+	IMG_1484.tif
+	groundTruth: 14.930000
+	our result: 14.813795 
+	error: 0.116205
+NOT OK	time: 8.034632 seconds 
+
+	AED: 0.124649
+	top80 error: 0.047565
+	CE ( error <=0.1) : 64.285714 percent
+---------------------
+1485/1550 
+	IMG_1485.tif
+	groundTruth: -12.060000
+	our result: -12.193577 
+	error: 0.133577
+NOT OK	time: 8.395518 seconds 
+
+	AED: 0.124655
+	top80 error: 0.047623
+	CE ( error <=0.1) : 64.242424 percent
+---------------------
+1486/1550 
+	IMG_1486.tif
+	groundTruth: 0.440000
+	our result: 0.232393 
+	error: 0.207607
+NOT OK	time: 8.023857 seconds 
+
+	AED: 0.124711
+	top80 error: 0.047690
+	CE ( error <=0.1) : 64.199192 percent
+---------------------
+1487/1550 
+	IMG_1487.tif
+	groundTruth: 6.570000
+	our result: 6.397346 
+	error: 0.172654
+NOT OK	time: 8.234401 seconds 
+
+	AED: 0.124744
+	top80 error: 0.047756
+	CE ( error <=0.1) : 64.156019 percent
+---------------------
+1488/1550 
+	IMG_1488.tif
+	groundTruth: 7.830000
+	our result: 7.672179 
+	error: 0.157821
+NOT OK	time: 8.265219 seconds 
+
+	AED: 0.124766
+	top80 error: 0.047724
+	CE ( error <=0.1) : 64.112903 percent
+---------------------
+1489/1550 
+	IMG_1489.tif
+	groundTruth: -8.630000
+	our result: -8.798226 
+	error: 0.168226
+NOT OK	time: 8.305887 seconds 
+
+	AED: 0.124795
+	top80 error: 0.047791
+	CE ( error <=0.1) : 64.069846 percent
+---------------------
+1490/1550 
+	IMG_1490.tif
+	groundTruth: -4.390000
+	our result: -4.569876 
+	error: 0.179876
+NOT OK	time: 8.182816 seconds 
+
+	AED: 0.124832
+	top80 error: 0.047857
+	CE ( error <=0.1) : 64.026846 percent
+---------------------
+1491/1550 
+	IMG_1491.tif
+	groundTruth: 7.570000
+	our result: 7.585323 
+	error: 0.015323
+OK	time: 8.299130 seconds 
+
+	AED: 0.124758
+	top80 error: 0.047836
+	CE ( error <=0.1) : 64.050973 percent
+---------------------
+1492/1550 
+	IMG_1492.tif
+	groundTruth: 5.620000
+	our result: 5.710403 
+	error: 0.090403
+OK	time: 8.225332 seconds 
+
+	AED: 0.124735
+	top80 error: 0.047864
+	CE ( error <=0.1) : 64.075067 percent
+---------------------
+1493/1550 
+	IMG_1493.tif
+	groundTruth: -6.070000
+	our result: -6.030801 
+	error: 0.039199
+OK	time: 8.237410 seconds 
+
+	AED: 0.124678
+	top80 error: 0.047760
+	CE ( error <=0.1) : 64.099129 percent
+---------------------
+1494/1550 
+	IMG_1494.tif
+	groundTruth: 1.260000
+	our result: 1.259834 
+	error: 0.000166
+OK	time: 8.102337 seconds 
+
+	AED: 0.124595
+	top80 error: 0.047728
+	CE ( error <=0.1) : 64.123159 percent
+---------------------
+1495/1550 
+	IMG_1495.tif
+	groundTruth: -13.080000
+	our result: -13.063314 
+	error: 0.016686
+OK	time: 8.451545 seconds 
+
+	AED: 0.124523
+	top80 error: 0.047707
+	CE ( error <=0.1) : 64.147157 percent
+---------------------
+1496/1550 
+	IMG_1496.tif
+	groundTruth: 0.400000
+	our result: 0.413394 
+	error: 0.013394
+OK	time: 8.057667 seconds 
+
+	AED: 0.124448
+	top80 error: 0.047684
+	CE ( error <=0.1) : 64.171123 percent
+---------------------
+1497/1550 
+	IMG_1497.tif
+	groundTruth: -0.830000
+	our result: -0.818590 
+	error: 0.011410
+OK	time: 8.076333 seconds 
+
+	AED: 0.124373
+	top80 error: 0.047660
+	CE ( error <=0.1) : 64.195057 percent
+---------------------
+1498/1550 
+	IMG_1498.tif
+	groundTruth: -14.900000
+	our result: -14.865165 
+	error: 0.034835
+OK	time: 8.054680 seconds 
+
+	AED: 0.124313
+	top80 error: 0.047553
+	CE ( error <=0.1) : 64.218959 percent
+---------------------
+1499/1550 
+	IMG_1499.tif
+	groundTruth: 8.840000
+	our result: 8.892861 
+	error: 0.052861
+OK	time: 8.339576 seconds 
+
+	AED: 0.124265
+	top80 error: 0.047557
+	CE ( error <=0.1) : 64.242829 percent
+---------------------
+1500/1550 
+	IMG_1500.tif
+	groundTruth: -12.070000
+	our result: -12.064444 
+	error: 0.005556
+OK	time: 8.441687 seconds 
+
+	AED: 0.124186
+	top80 error: 0.047529
+	CE ( error <=0.1) : 64.266667 percent
+---------------------
+1501/1550 
+	IMG_1501.tif
+	groundTruth: 2.920000
+	our result: 3.038734 
+	error: 0.118734
+NOT OK	time: 8.112773 seconds 
+
+	AED: 0.124183
+	top80 error: 0.047576
+	CE ( error <=0.1) : 64.223851 percent
+---------------------
+1502/1550 
+	IMG_1502.tif
+	groundTruth: -13.510000
+	our result: -13.385179 
+	error: 0.124821
+NOT OK	time: 8.463808 seconds 
+
+	AED: 0.124183
+	top80 error: 0.047628
+	CE ( error <=0.1) : 64.181092 percent
+---------------------
+1503/1550 
+	IMG_1503.tif
+	groundTruth: 13.590000
+	our result: 13.670896 
+	error: 0.080896
+OK	time: 8.457620 seconds 
+
+	AED: 0.124154
+	top80 error: 0.047552
+	CE ( error <=0.1) : 64.204923 percent
+---------------------
+1504/1550 
+	IMG_1504.tif
+	groundTruth: 6.460000
+	our result: 6.575049 
+	error: 0.115049
+NOT OK	time: 8.243091 seconds 
+
+	AED: 0.124148
+	top80 error: 0.047597
+	CE ( error <=0.1) : 64.162234 percent
+---------------------
+1505/1550 
+	IMG_1505.tif
+	groundTruth: -4.360000
+	our result: -4.252594 
+	error: 0.107406
+NOT OK	time: 8.166622 seconds 
+
+	AED: 0.124137
+	top80 error: 0.047637
+	CE ( error <=0.1) : 64.119601 percent
+---------------------
+1506/1550 
+	IMG_1506.tif
+	groundTruth: -7.680000
+	our result: -7.533393 
+	error: 0.146607
+NOT OK	time: 8.269948 seconds 
+
+	AED: 0.124152
+	top80 error: 0.047703
+	CE ( error <=0.1) : 64.077025 percent
+---------------------
+1507/1550 
+	IMG_1507.tif
+	groundTruth: 1.020000
+	our result: 1.150699 
+	error: 0.130699
+NOT OK	time: 8.062708 seconds 
+
+	AED: 0.124156
+	top80 error: 0.047758
+	CE ( error <=0.1) : 64.034506 percent
+---------------------
+1508/1550 
+	IMG_1508.tif
+	groundTruth: -2.170000
+	our result: -2.078251 
+	error: 0.091749
+OK	time: 8.085613 seconds 
+
+	AED: 0.124135
+	top80 error: 0.047690
+	CE ( error <=0.1) : 64.058355 percent
+---------------------
+1509/1550 
+	IMG_1509.tif
+	groundTruth: 8.490000
+	our result: 8.663555 
+	error: 0.173555
+NOT OK	time: 8.302371 seconds 
+
+	AED: 0.124168
+	top80 error: 0.047755
+	CE ( error <=0.1) : 64.015905 percent
+---------------------
+1510/1550 
+	IMG_1510.tif
+	groundTruth: -5.800000
+	our result: -5.703418 
+	error: 0.096582
+OK	time: 8.219938 seconds 
+
+	AED: 0.124149
+	top80 error: 0.047788
+	CE ( error <=0.1) : 64.039735 percent
+---------------------
+1511/1550 
+	IMG_1511.tif
+	groundTruth: -4.900000
+	our result: -4.820138 
+	error: 0.079862
+OK	time: 8.030252 seconds 
+
+	AED: 0.124120
+	top80 error: 0.047809
+	CE ( error <=0.1) : 64.063534 percent
+---------------------
+1512/1550 
+	IMG_1512.tif
+	groundTruth: 7.240000
+	our result: 7.302702 
+	error: 0.062702
+OK	time: 8.107320 seconds 
+
+	AED: 0.124079
+	top80 error: 0.047819
+	CE ( error <=0.1) : 64.087302 percent
+---------------------
+1513/1550 
+	IMG_1513.tif
+	groundTruth: -8.720000
+	our result: -8.629749 
+	error: 0.090251
+OK	time: 8.160256 seconds 
+
+	AED: 0.124057
+	top80 error: 0.047750
+	CE ( error <=0.1) : 64.111038 percent
+---------------------
+1514/1550 
+	IMG_1514.tif
+	groundTruth: 13.430000
+	our result: 13.507855 
+	error: 0.077855
+OK	time: 8.307954 seconds 
+
+	AED: 0.124026
+	top80 error: 0.047770
+	CE ( error <=0.1) : 64.134742 percent
+---------------------
+1515/1550 
+	IMG_1515.tif
+	groundTruth: 10.500000
+	our result: 10.565295 
+	error: 0.065295
+OK	time: 8.200250 seconds 
+
+	AED: 0.123988
+	top80 error: 0.047781
+	CE ( error <=0.1) : 64.158416 percent
+---------------------
+1516/1550 
+	IMG_1516.tif
+	groundTruth: 4.700000
+	our result: 4.783727 
+	error: 0.083727
+OK	time: 8.011861 seconds 
+
+	AED: 0.123961
+	top80 error: 0.047805
+	CE ( error <=0.1) : 64.182058 percent
+---------------------
+1517/1550 
+	IMG_1517.tif
+	groundTruth: 9.640000
+	our result: 9.700221 
+	error: 0.060221
+OK	time: 8.198792 seconds 
+
+	AED: 0.123919
+	top80 error: 0.047813
+	CE ( error <=0.1) : 64.205669 percent
+---------------------
+1518/1550 
+	IMG_1518.tif
+	groundTruth: 2.450000
+	our result: 2.518639 
+	error: 0.068639
+OK	time: 7.915276 seconds 
+
+	AED: 0.123883
+	top80 error: 0.047731
+	CE ( error <=0.1) : 64.229249 percent
+---------------------
+1519/1550 
+	IMG_1519.tif
+	groundTruth: 1.000000
+	our result: 1.095673 
+	error: 0.095673
+OK	time: 7.865838 seconds 
+
+	AED: 0.123864
+	top80 error: 0.047762
+	CE ( error <=0.1) : 64.252798 percent
+---------------------
+1520/1550 
+	IMG_1520.tif
+	groundTruth: 11.450000
+	our result: 11.513721 
+	error: 0.063721
+OK	time: 8.237291 seconds 
+
+	AED: 0.123825
+	top80 error: 0.047773
+	CE ( error <=0.1) : 64.276316 percent
+---------------------
+1521/1550 
+	IMG_1521.tif
+	groundTruth: 2.770000
+	our result: 2.905875 
+	error: 0.135875
+NOT OK	time: 8.052961 seconds 
+
+	AED: 0.123833
+	top80 error: 0.047831
+	CE ( error <=0.1) : 64.234057 percent
+---------------------
+1522/1550 
+	IMG_1522.tif
+	groundTruth: 3.840000
+	our result: 3.978525 
+	error: 0.138525
+NOT OK	time: 8.106589 seconds 
+
+	AED: 0.123842
+	top80 error: 0.047890
+	CE ( error <=0.1) : 64.191853 percent
+---------------------
+1523/1550 
+	IMG_1523.tif
+	groundTruth: 6.050000
+	our result: 6.190991 
+	error: 0.140991
+NOT OK	time: 8.175834 seconds 
+
+	AED: 0.123853
+	top80 error: 0.047855
+	CE ( error <=0.1) : 64.149705 percent
+---------------------
+1524/1550 
+	IMG_1524.tif
+	groundTruth: 12.030000
+	our result: 12.148815 
+	error: 0.118815
+NOT OK	time: 8.338715 seconds 
+
+	AED: 0.123850
+	top80 error: 0.047902
+	CE ( error <=0.1) : 64.107612 percent
+---------------------
+1525/1550 
+	IMG_1525.tif
+	groundTruth: -4.050000
+	our result: -3.912177 
+	error: 0.137823
+NOT OK	time: 8.095641 seconds 
+
+	AED: 0.123859
+	top80 error: 0.047961
+	CE ( error <=0.1) : 64.065574 percent
+---------------------
+1526/1550 
+	IMG_1526.tif
+	groundTruth: -9.680000
+	our result: -9.539686 
+	error: 0.140314
+NOT OK	time: 8.260821 seconds 
+
+	AED: 0.123870
+	top80 error: 0.048021
+	CE ( error <=0.1) : 64.023591 percent
+---------------------
+1527/1550 
+	IMG_1527.tif
+	groundTruth: -7.130000
+	our result: -7.000774 
+	error: 0.129226
+NOT OK	time: 8.210297 seconds 
+
+	AED: 0.123874
+	top80 error: 0.048075
+	CE ( error <=0.1) : 63.981663 percent
+---------------------
+1528/1550 
+	IMG_1528.tif
+	groundTruth: 13.710000
+	our result: 13.824446 
+	error: 0.114446
+NOT OK	time: 8.408439 seconds 
+
+	AED: 0.123867
+	top80 error: 0.048022
+	CE ( error <=0.1) : 63.939791 percent
+---------------------
+1529/1550 
+	IMG_1529.tif
+	groundTruth: 8.720000
+	our result: 8.867059 
+	error: 0.147059
+NOT OK	time: 8.249802 seconds 
+
+	AED: 0.123883
+	top80 error: 0.048087
+	CE ( error <=0.1) : 63.897973 percent
+---------------------
+1530/1550 
+	IMG_1530.tif
+	groundTruth: -14.200000
+	our result: -14.078547 
+	error: 0.121453
+NOT OK	time: 7.969425 seconds 
+
+	AED: 0.123881
+	top80 error: 0.048135
+	CE ( error <=0.1) : 63.856209 percent
+---------------------
+1531/1550 
+	IMG_1531.tif
+	groundTruth: 2.750000
+	our result: 2.775785 
+	error: 0.025785
+OK	time: 7.444135 seconds 
+
+	AED: 0.123817
+	top80 error: 0.048120
+	CE ( error <=0.1) : 63.879817 percent
+---------------------
+1532/1550 
+	IMG_1532.tif
+	groundTruth: -13.790000
+	our result: -13.855685 
+	error: 0.065685
+OK	time: 8.062539 seconds 
+
+	AED: 0.123779
+	top80 error: 0.048131
+	CE ( error <=0.1) : 63.903394 percent
+---------------------
+1533/1550 
+	IMG_1533.tif
+	groundTruth: 14.270000
+	our result: 14.334542 
+	error: 0.064542
+OK	time: 7.635130 seconds 
+
+	AED: 0.123740
+	top80 error: 0.048047
+	CE ( error <=0.1) : 63.926941 percent
+---------------------
+1534/1550 
+	IMG_1534.tif
+	groundTruth: 10.690000
+	our result: 10.716177 
+	error: 0.026177
+OK	time: 7.912053 seconds 
+
+	AED: 0.123677
+	top80 error: 0.048033
+	CE ( error <=0.1) : 63.950456 percent
+---------------------
+1535/1550 
+	IMG_1535.tif
+	groundTruth: -3.230000
+	our result: -3.249060 
+	error: 0.019060
+OK	time: 7.480884 seconds 
+
+	AED: 0.123609
+	top80 error: 0.048014
+	CE ( error <=0.1) : 63.973941 percent
+---------------------
+1536/1550 
+	IMG_1536.tif
+	groundTruth: -7.030000
+	our result: -7.018369 
+	error: 0.011631
+OK	time: 7.800466 seconds 
+
+	AED: 0.123536
+	top80 error: 0.047990
+	CE ( error <=0.1) : 63.997396 percent
+---------------------
+1537/1550 
+	IMG_1537.tif
+	groundTruth: -0.070000
+	our result: -0.023287 
+	error: 0.046713
+OK	time: 7.165119 seconds 
+
+	AED: 0.123486
+	top80 error: 0.047989
+	CE ( error <=0.1) : 64.020820 percent
+---------------------
+1538/1550 
+	IMG_1538.tif
+	groundTruth: -4.650000
+	our result: -4.617490 
+	error: 0.032510
+OK	time: 7.635362 seconds 
+
+	AED: 0.123427
+	top80 error: 0.047884
+	CE ( error <=0.1) : 64.044213 percent
+---------------------
+1539/1550 
+	IMG_1539.tif
+	groundTruth: -11.690000
+	our result: -11.701870 
+	error: 0.011870
+OK	time: 7.948176 seconds 
+
+	AED: 0.123354
+	top80 error: 0.047861
+	CE ( error <=0.1) : 64.067576 percent
+---------------------
+1540/1550 
+	IMG_1540.tif
+	groundTruth: -10.510000
+	our result: -10.524076 
+	error: 0.014076
+OK	time: 8.050428 seconds 
+
+	AED: 0.123283
+	top80 error: 0.047839
+	CE ( error <=0.1) : 64.090909 percent
+---------------------
+1541/1550 
+	IMG_1541.tif
+	groundTruth: 2.050000
+	our result: 2.242411 
+	error: 0.192411
+NOT OK	time: 8.017941 seconds 
+
+	AED: 0.123328
+	top80 error: 0.047903
+	CE ( error <=0.1) : 64.049319 percent
+---------------------
+1542/1550 
+	IMG_1542.tif
+	groundTruth: -4.020000
+	our result: -3.820393 
+	error: 0.199607
+NOT OK	time: 8.082305 seconds 
+
+	AED: 0.123377
+	top80 error: 0.047966
+	CE ( error <=0.1) : 64.007782 percent
+---------------------
+1543/1550 
+	IMG_1543.tif
+	groundTruth: 0.170000
+	our result: 0.301591 
+	error: 0.131591
+NOT OK	time: 7.925471 seconds 
+
+	AED: 0.123383
+	top80 error: 0.047926
+	CE ( error <=0.1) : 63.966299 percent
+---------------------
+1544/1550 
+	IMG_1544.tif
+	groundTruth: -2.930000
+	our result: -2.713346 
+	error: 0.216654
+NOT OK	time: 8.067400 seconds 
+
+	AED: 0.123443
+	top80 error: 0.047989
+	CE ( error <=0.1) : 63.924870 percent
+---------------------
+1545/1550 
+	IMG_1545.tif
+	groundTruth: 5.790000
+	our result: 5.918470 
+	error: 0.128470
+NOT OK	time: 8.166800 seconds 
+
+	AED: 0.123446
+	top80 error: 0.048041
+	CE ( error <=0.1) : 63.883495 percent
+---------------------
+1546/1550 
+	IMG_1546.tif
+	groundTruth: 2.870000
+	our result: 2.998106 
+	error: 0.128106
+NOT OK	time: 8.053772 seconds 
+
+	AED: 0.123449
+	top80 error: 0.048093
+	CE ( error <=0.1) : 63.842173 percent
+---------------------
+1547/1550 
+	IMG_1547.tif
+	groundTruth: 7.300000
+	our result: 7.509831 
+	error: 0.209831
+NOT OK	time: 8.214751 seconds 
+
+	AED: 0.123505
+	top80 error: 0.048157
+	CE ( error <=0.1) : 63.800905 percent
+---------------------
+1548/1550 
+	IMG_1548.tif
+	groundTruth: -1.290000
+	our result: -1.145363 
+	error: 0.144637
+NOT OK	time: 7.981155 seconds 
+
+	AED: 0.123519
+	top80 error: 0.048124
+	CE ( error <=0.1) : 63.759690 percent
+---------------------
+1549/1550 
+	IMG_1549.tif
+	groundTruth: -8.080000
+	our result: -7.881386 
+	error: 0.198614
+NOT OK	time: 8.238497 seconds 
+
+	AED: 0.123567
+	top80 error: 0.048188
+	CE ( error <=0.1) : 63.718528 percent
+---------------------
+1550/1550 
+	IMG_1550.tif
+	groundTruth: 12.990000
+	our result: 13.218086 
+	error: 0.228086
+NOT OK	time: 8.403890 seconds 
+
+	AED: 0.123635
+	top80 error: 0.048251
+	CE ( error <=0.1) : 63.677419 percent
+---------------------
+>> 
